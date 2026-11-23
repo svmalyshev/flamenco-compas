@@ -1,0 +1,592 @@
+{
+  "label": "Alegrías",
+  "name": "ALEGRÍAS",
+  "bpm": 150,
+  "order": [
+    12,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "accents": [
+    "12",
+    "3",
+    "6",
+    "8",
+    "10"
+  ],
+  "accentPositions": [
+    0,
+    3,
+    6,
+    8,
+    10
+  ],
+  "tempoFraction": 1.0,
+  "note": "Antiguo",
+  "practice": "Настрой удобный темп и баланс инструментов. Слушай рисунок целиком, затем разбери каждую партию отдельно.",
+  "eventGrid": [
+    [
+      {
+        "kind": "bass",
+        "instrument": "cajon",
+        "velocity": 1.0636219041127015,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 0
+      },
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.0636219041127015,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.1329527380140877,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.06647636900704385,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.2659054760281754,
+        "sourceIntensity": 5.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.06647636900704385,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 0.2659054760281754,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.1329527380140877,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.2659054760281754,
+        "sourceIntensity": 4.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 0.2659054760281754,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.2659054760281754,
+        "sourceIntensity": 5.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.06647636900704385,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 0.2659054760281754,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.1329527380140877,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.06647636900704385,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.2659054760281754,
+        "sourceIntensity": 5.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bass",
+        "instrument": "cajon",
+        "velocity": 1.0636219041127015,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 0
+      },
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.0636219041127015,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.1329527380140877,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.06647636900704385,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.2659054760281754,
+        "sourceIntensity": 5.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.06647636900704385,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 0.2659054760281754,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.1329527380140877,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.2659054760281754,
+        "sourceIntensity": 4.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.2659054760281754,
+        "sourceIntensity": 5.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.06647636900704385,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 0.2659054760281754,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.1329527380140877,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.06647636900704385,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.2659054760281754,
+        "sourceIntensity": 5.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bass",
+        "instrument": "cajon",
+        "velocity": 1.0636219041127015,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 0
+      },
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.0636219041127015,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.1329527380140877,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.06647636900704385,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.2659054760281754,
+        "sourceIntensity": 5.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.06647636900704385,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 0.2659054760281754,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.1329527380140877,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.2659054760281754,
+        "sourceIntensity": 4.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.2659054760281754,
+        "sourceIntensity": 5.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bass",
+        "instrument": "cajon",
+        "velocity": 1.0636219041127015,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 0
+      },
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.0636219041127015,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.1329527380140877,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.06647636900704385,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.2659054760281754,
+        "sourceIntensity": 5.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.06647636900704385,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 0.2659054760281754,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.1329527380140877,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.2659054760281754,
+        "sourceIntensity": 4.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.2659054760281754,
+        "sourceIntensity": 5.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bass",
+        "instrument": "cajon",
+        "velocity": 1.0636219041127015,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 0
+      },
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.0636219041127015,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.1329527380140877,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.06647636900704385,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.2659054760281754,
+        "sourceIntensity": 5.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.2659054760281754,
+        "sourceIntensity": 4.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 0.2659054760281754,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.1329527380140877,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.06647636900704385,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.2659054760281754,
+        "sourceIntensity": 5.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    []
+  ],
+  "sourceClock": "SONIQUETE ANTIGUO",
+  "sourcePalo": "Alegrías",
+  "sourceClockIndex": 1,
+  "cycleLabel": "12 ПОЗИЦИЙ",
+  "sourceGainModel": "instrumentVolume * generalVolume * trackVolume * tracksGeneralGain * 2^(-tempoIntensity); inferred amplitude transfer, not verified against executable",
+  "outputGain": 0.75,
+  "hasPandereta": true
+}

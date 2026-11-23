@@ -1,0 +1,198 @@
+[
+  {
+    "file": "palmas-384167.mp3",
+    "author": "hypernovajm",
+    "source": "https://freesound.org/people/hypernovajm/sounds/384167/",
+    "download": "https://cdn.freesound.org/previews/384/384167_615735-hq.mp3",
+    "license": "CC0-1.0",
+    "format": "HQ MP3 preview",
+    "role": "soft"
+  },
+  {
+    "file": "palmas-384168.mp3",
+    "author": "hypernovajm",
+    "source": "https://freesound.org/people/hypernovajm/sounds/384168/",
+    "download": "https://cdn.freesound.org/previews/384/384168_615735-hq.mp3",
+    "license": "CC0-1.0",
+    "format": "HQ MP3 preview",
+    "role": "soft"
+  },
+  {
+    "file": "palmas-384163.mp3",
+    "author": "hypernovajm",
+    "source": "https://freesound.org/people/hypernovajm/sounds/384163/",
+    "download": "https://cdn.freesound.org/previews/384/384163_615735-hq.mp3",
+    "license": "CC0-1.0",
+    "format": "HQ MP3 preview",
+    "role": "hard"
+  },
+  {
+    "file": "palmas-384164.mp3",
+    "author": "hypernovajm",
+    "source": "https://freesound.org/people/hypernovajm/sounds/384164/",
+    "download": "https://cdn.freesound.org/previews/384/384164_615735-hq.mp3",
+    "license": "CC0-1.0",
+    "format": "HQ MP3 preview",
+    "role": "hard"
+  },
+  {
+    "file": "cajon-center-1.wav",
+    "role": "bass",
+    "author": "Xavimart (Javier), Gonzalo and Roberto / FreePats",
+    "source": "https://freepats.zenvoid.org/Percussion/world-and-rare-percussion.html",
+    "license": "CC0-1.0",
+    "source_files": [
+      {
+        "local": "originals/freepats/109.flac",
+        "url": "https://raw.githubusercontent.com/freepats/world-percussion/main/samples/CajonFlamenco/109.flac",
+        "mix": 1.0
+      }
+    ],
+    "processing": {
+      "max_seconds": 0.45,
+      "fade_seconds": 0.025,
+      "peak": 0.85,
+      "description": "Mono conversion, trim leading silence, end fade; original pitch."
+    }
+  },
+  {
+    "file": "cajon-center-2.wav",
+    "role": "bass",
+    "author": "Xavimart (Javier), Gonzalo and Roberto / FreePats",
+    "source": "https://freepats.zenvoid.org/Percussion/world-and-rare-percussion.html",
+    "license": "CC0-1.0",
+    "source_files": [
+      {
+        "local": "originals/freepats/205.flac",
+        "url": "https://raw.githubusercontent.com/freepats/world-percussion/main/samples/CajonFlamenco/205.flac",
+        "mix": 1.0
+      }
+    ],
+    "processing": {
+      "max_seconds": 0.45,
+      "fade_seconds": 0.025,
+      "peak": 0.85,
+      "description": "Mono conversion, trim leading silence, end fade; original pitch."
+    }
+  },
+  {
+    "file": "cajon-center-3.wav",
+    "role": "bass",
+    "author": "Xavimart (Javier), Gonzalo and Roberto / FreePats",
+    "source": "https://freepats.zenvoid.org/Percussion/world-and-rare-percussion.html",
+    "license": "CC0-1.0",
+    "source_files": [
+      {
+        "local": "originals/freepats/209.flac",
+        "url": "https://raw.githubusercontent.com/freepats/world-percussion/main/samples/CajonFlamenco/209.flac",
+        "mix": 1.0
+      }
+    ],
+    "processing": {
+      "max_seconds": 0.45,
+      "fade_seconds": 0.025,
+      "peak": 0.85,
+      "description": "Mono conversion, trim leading silence, end fade; original pitch."
+    }
+  },
+  {
+    "file": "cajon-dry-1.wav",
+    "role": "slap",
+    "author": "Karoryfer Lecolds",
+    "source": "https://shop.karoryfer.com/pages/free-gogodze-phu-vol-i",
+    "license": "CC0-1.0",
+    "source_files": [
+      {
+        "local": "originals/karoryfer/cajon_sl3_vl2_rr1_cnd.wav",
+        "url": "https://raw.githubusercontent.com/sfzinstruments/karoryfer.gogodze-phu-vol-i/master/Samples/cajon/cnd/cajon_sl3_vl2_rr1_cnd.wav",
+        "mix": 0.7
+      },
+      {
+        "local": "originals/karoryfer/cajon_sl3_vl2_rr1_dyn.wav",
+        "url": "https://raw.githubusercontent.com/sfzinstruments/karoryfer.gogodze-phu-vol-i/master/Samples/cajon/dyn/cajon_sl3_vl2_rr1_dyn.wav",
+        "mix": 0.30000000000000004
+      }
+    ],
+    "processing": {
+      "max_seconds": 0.28,
+      "fade_seconds": 0.025,
+      "peak": 0.85,
+      "description": "Front/rear mic mix with per-mic peak alignment, silence trim and short fade. Pulse uses snare-removed location. No pitch shifting."
+    }
+  },
+  {
+    "file": "cajon-dry-2.wav",
+    "role": "slap",
+    "author": "Karoryfer Lecolds",
+    "source": "https://shop.karoryfer.com/pages/free-gogodze-phu-vol-i",
+    "license": "CC0-1.0",
+    "source_files": [
+      {
+        "local": "originals/karoryfer/cajon_sl3_vl2_rr2_cnd.wav",
+        "url": "https://raw.githubusercontent.com/sfzinstruments/karoryfer.gogodze-phu-vol-i/master/Samples/cajon/cnd/cajon_sl3_vl2_rr2_cnd.wav",
+        "mix": 0.7
+      },
+      {
+        "local": "originals/karoryfer/cajon_sl3_vl2_rr2_dyn.wav",
+        "url": "https://raw.githubusercontent.com/sfzinstruments/karoryfer.gogodze-phu-vol-i/master/Samples/cajon/dyn/cajon_sl3_vl2_rr2_dyn.wav",
+        "mix": 0.30000000000000004
+      }
+    ],
+    "processing": {
+      "max_seconds": 0.28,
+      "fade_seconds": 0.025,
+      "peak": 0.85,
+      "description": "Front/rear mic mix with per-mic peak alignment, silence trim and short fade. Pulse uses snare-removed location. No pitch shifting."
+    }
+  },
+  {
+    "file": "cajon-pulse-dry-1.wav",
+    "role": "tap",
+    "author": "Karoryfer Lecolds",
+    "source": "https://shop.karoryfer.com/pages/free-gogodze-phu-vol-i",
+    "license": "CC0-1.0",
+    "source_files": [
+      {
+        "local": "originals/karoryfer/cajon_sl6_rr1_cnd.wav",
+        "url": "https://raw.githubusercontent.com/sfzinstruments/karoryfer.gogodze-phu-vol-i/master/Samples/cajon/cnd/cajon_sl6_rr1_cnd.wav",
+        "mix": 0.8
+      },
+      {
+        "local": "originals/karoryfer/cajon_sl6_rr1_dyn.wav",
+        "url": "https://raw.githubusercontent.com/sfzinstruments/karoryfer.gogodze-phu-vol-i/master/Samples/cajon/dyn/cajon_sl6_rr1_dyn.wav",
+        "mix": 0.19999999999999996
+      }
+    ],
+    "processing": {
+      "max_seconds": 0.16,
+      "fade_seconds": 0.025,
+      "peak": 0.85,
+      "description": "Front/rear mic mix with per-mic peak alignment, silence trim and short fade. Pulse uses snare-removed location. No pitch shifting."
+    }
+  },
+  {
+    "file": "cajon-pulse-dry-2.wav",
+    "role": "tap",
+    "author": "Karoryfer Lecolds",
+    "source": "https://shop.karoryfer.com/pages/free-gogodze-phu-vol-i",
+    "license": "CC0-1.0",
+    "source_files": [
+      {
+        "local": "originals/karoryfer/cajon_sl6_rr2_cnd.wav",
+        "url": "https://raw.githubusercontent.com/sfzinstruments/karoryfer.gogodze-phu-vol-i/master/Samples/cajon/cnd/cajon_sl6_rr2_cnd.wav",
+        "mix": 0.8
+      },
+      {
+        "local": "originals/karoryfer/cajon_sl6_rr2_dyn.wav",
+        "url": "https://raw.githubusercontent.com/sfzinstruments/karoryfer.gogodze-phu-vol-i/master/Samples/cajon/dyn/cajon_sl6_rr2_dyn.wav",
+        "mix": 0.19999999999999996
+      }
+    ],
+    "processing": {
+      "max_seconds": 0.16,
+      "fade_seconds": 0.025,
+      "peak": 0.85,
+      "description": "Front/rear mic mix with per-mic peak alignment, silence trim and short fade. Pulse uses snare-removed location. No pitch shifting."
+    }
+  }
+]

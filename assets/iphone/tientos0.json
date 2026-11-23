@@ -1,0 +1,197 @@
+{
+  "label": "Tientos",
+  "name": "TIENTOS",
+  "bpm": 90,
+  "order": [
+    1,
+    "½",
+    2,
+    "½",
+    3,
+    "½",
+    4,
+    "",
+    1,
+    "½",
+    2,
+    "½",
+    3,
+    "½",
+    4,
+    ""
+  ],
+  "accents": [
+    "½",
+    "½",
+    "3",
+    "4",
+    "½",
+    "½",
+    "3"
+  ],
+  "accentPositions": [
+    1,
+    3,
+    4,
+    6,
+    9,
+    11,
+    12
+  ],
+  "tempoFraction": 2.0,
+  "note": "Tradicional",
+  "practice": "Настрой удобный темп и баланс инструментов. Слушай рисунок целиком, затем разбери каждую партию отдельно.",
+  "eventGrid": [
+    [
+      {
+        "kind": "bass",
+        "instrument": "cajon",
+        "velocity": 1.1004869857262805,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 0
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.1004869857262805,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.1004869857262805,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.1004869857262805,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.1004869857262805,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bass",
+        "instrument": "cajon",
+        "velocity": 0.2751217464315701,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 0
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bass",
+        "instrument": "cajon",
+        "velocity": 1.1004869857262805,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 0
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.1004869857262805,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.1004869857262805,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.1004869857262805,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "sourceClock": "TRADICIONAL",
+  "sourcePalo": "tientos",
+  "sourceClockIndex": 0,
+  "cycleLabel": "8 ПОЗИЦИЙ",
+  "sourceGainModel": "instrumentVolume * generalVolume * trackVolume * tracksGeneralGain * 2^(-tempoIntensity); inferred amplitude transfer, not verified against executable",
+  "outputGain": 0.75,
+  "hasPandereta": false
+}

@@ -1,0 +1,2011 @@
+[{
+    "clocks": [{
+        "agujaColor": "#000000",
+        "backGroundColor": "#7fffffff",
+        "centerCircleColor": "#F15217",
+        "clockAccents": [0, 3, 7, 8, 10],
+        "clockImageURL": "",
+        "clockNumbers": ["12", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"],
+        "hightLightedNumberColor": "#000000",
+        "name": "MODERNA EN 12",
+        "numbersColor": "#F15217",
+        "tracks": [{
+            "name": "cajon grave",
+            "patternSequence": [0],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "cajon agudo",
+            "patternSequence": [1],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "palmas",
+            "patternSequence": [2],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }],
+        "automaticGain": true,
+        "initialClockAngle": 0.0,
+        "initialNumbersAngle": 0.0,
+        "numbersDeltaAngle": 30.0,
+        "numbersRadioFactor": 1.0,
+        "tempoFraction": 1.0,
+        "tracksGeneralGain": 2.1987585975507464,
+        "clockId": 0,
+        "clockImageId": 0,
+        "defaultBPM": 210,
+        "maxBPM": 300,
+        "minBPM": 50,
+        "startAccent": 0
+    }, {
+        "agujaColor": "#000000",
+        "backGroundColor": "#77ffffff",
+        "centerCircleColor": "#F15217",
+        "clockAccents": [0, 2, 4, 6, 8, 10],
+        "clockImageURL": "",
+        "clockNumbers": ["12", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"],
+        "hightLightedNumberColor": "#000000",
+        "name": "AL GOLPE",
+        "numbersColor": "#F15217",
+        "tracks": [{
+            "name": "cajon grave",
+            "patternSequence": [3],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "cajon agudo",
+            "patternSequence": [4],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "palmas",
+            "patternSequence": [5],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }],
+        "automaticGain": true,
+        "initialClockAngle": 0.0,
+        "initialNumbersAngle": 0.0,
+        "numbersDeltaAngle": 30.0,
+        "numbersRadioFactor": 1.0,
+        "tempoFraction": 1.0,
+        "tracksGeneralGain": 3.8793583140945955,
+        "clockId": 1,
+        "clockImageId": 0,
+        "defaultBPM": 200,
+        "maxBPM": 300,
+        "minBPM": 50,
+        "startAccent": 0
+    }, {
+        "agujaColor": "#000000",
+        "backGroundColor": "#7fffffff",
+        "centerCircleColor": "#F15217",
+        "clockAccents": [0, 3, 6, 9],
+        "clockImageURL": "",
+        "clockNumbers": ["12", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"],
+        "hightLightedNumberColor": "#000000",
+        "name": "EN SEIS TIEMPOS",
+        "numbersColor": "#F15217",
+        "tracks": [{
+            "name": "cajon grave",
+            "patternSequence": [6],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "cajon agudo",
+            "patternSequence": [7],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "palmas",
+            "patternSequence": [8],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }],
+        "automaticGain": true,
+        "initialClockAngle": 0.0,
+        "initialNumbersAngle": 0.0,
+        "numbersDeltaAngle": 30.0,
+        "numbersRadioFactor": 1.0,
+        "tempoFraction": 1.0,
+        "tracksGeneralGain": 2.199865726753944,
+        "clockId": 2,
+        "clockImageId": 0,
+        "defaultBPM": 200,
+        "maxBPM": 300,
+        "minBPM": 50,
+        "startAccent": 0
+    }, {
+        "agujaColor": "#000000",
+        "backGroundColor": "#7fffffff",
+        "centerCircleColor": "#F15217",
+        "clockAccents": [0, 3, 6, 8, 10],
+        "clockImageURL": "",
+        "clockNumbers": ["12", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"],
+        "hightLightedNumberColor": "#000000",
+        "name": "ANTIGUAS EN 12",
+        "numbersColor": "#F15217",
+        "tracks": [{
+            "name": "cajon grave",
+            "patternSequence": [9],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "cajon agudo",
+            "patternSequence": [10],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "palmas",
+            "patternSequence": [11],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }],
+        "automaticGain": true,
+        "initialClockAngle": 0.0,
+        "initialNumbersAngle": 0.0,
+        "numbersDeltaAngle": 30.0,
+        "numbersRadioFactor": 1.0,
+        "tempoFraction": 1.0,
+        "tracksGeneralGain": 2.1908932869751268,
+        "clockId": 3,
+        "clockImageId": 0,
+        "defaultBPM": 200,
+        "maxBPM": 300,
+        "minBPM": 50,
+        "startAccent": 0
+    }, {
+        "agujaColor": "#000000",
+        "backGroundColor": "#7fffffff",
+        "centerCircleColor": "#F15217",
+        "clockAccents": [0, 3, 6, 9, 12, 15, 18, 21],
+        "clockImageURL": "",
+        "clockNumbers": ["12", "", "1", "½", "2", "", "3", "", "4", "½", "5", "", "6", "", "7", "½", "8", "", "9", "", "10", "½", "11", ""],
+        "hightLightedNumberColor": "#000000",
+        "name": "EN SEIS OCTAVOS",
+        "numbersColor": "#F15217",
+        "tracks": [{
+            "name": "cajon grave",
+            "patternSequence": [12],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "cajon agudo",
+            "patternSequence": [13],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "palmas",
+            "patternSequence": [14],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }],
+        "automaticGain": true,
+        "initialClockAngle": 0.0,
+        "initialNumbersAngle": 0.0,
+        "numbersDeltaAngle": 15.0,
+        "numbersRadioFactor": 1.0,
+        "tempoFraction": 2.0,
+        "tracksGeneralGain": 2.202231332750857,
+        "clockId": 4,
+        "clockImageId": 0,
+        "defaultBPM": 200,
+        "maxBPM": 300,
+        "minBPM": 50,
+        "startAccent": 0
+    }],
+    "compasPatterns": [{
+        "instruments": [{
+            "instrument": "cajon grave",
+            "tempoHits": [0.0, 3.0, 7.0, 8.0, 10.0],
+            "tempoInstrument": [0, 0, 0, 0, 0],
+            "tempoIntensities": [0.0, 0.0, 0.0, 0.0, 0.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "En 12 moderna Cajon Grave",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "cajon agudo",
+            "tempoHits": [0.5, 1.0, 1.5, 2.0, 2.5, 3.5, 4.0, 4.5, 5.0, 5.5, 6.0, 6.5, 7.5, 8.5, 9.0, 9.5, 10.5, 11.0, 11.5],
+            "tempoInstrument": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+            "tempoIntensities": [6.0, 6.0, 4.0, 6.0, 6.0, 6.0, 6.0, 4.0, 6.0, 6.0, 6.0, 3.0, 6.0, 6.0, 6.0, 3.0, 6.0, 4.0, 6.0],
+            "instrumentVolume": 2.0
+        }],
+        "name": "En 12 moderna Cajon Agudo",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [0.0, 1.0, 1.5, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 7.5, 8.0, 9.0, 9.5, 10.0, 11.0],
+            "tempoInstrument": [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2],
+            "tempoIntensities": [0.0, 3.0, 4.0, 5.0, 0.0, 3.0, 3.0, 7.0, 2.0, 2.0, 0.0, 2.0, 2.0, 0.0, 2.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "En 12 moderna palmas",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "cajon grave",
+            "tempoHits": [0.0, 1.0, 2.0, 6.0, 7.0, 8.0],
+            "tempoInstrument": [0, 0, 0, 0, 0, 0],
+            "tempoIntensities": [1.0, 5.0, 3.0, 1.0, 3.0, 3.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "Al golpe cajon grave",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "cajon agudo",
+            "tempoHits": [3.0, 3.5, 4.0, 5.0, 9.0, 9.5, 10.0, 11.0],
+            "tempoInstrument": [1, 1, 1, 1, 1, 1, 1, 1],
+            "tempoIntensities": [4.0, 2.0, 4.0, 6.0, 4.0, 2.0, 4.0, 6.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "Al golpe cajon agudo",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [0.0, 1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0, 11.0],
+            "tempoInstrument": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
+            "tempoIntensities": [6.0, 4.0, 6.0, 4.0, 7.0, 7.0, 6.0, 4.0, 6.0, 4.0, 7.0, 7.0],
+            "instrumentVolume": 8.0
+        }],
+        "name": "Al golpe palmas",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "cajon grave",
+            "tempoHits": [0.0, 3.0, 6.0, 9.0],
+            "tempoInstrument": [0, 0, 0, 0],
+            "tempoIntensities": [0.0, 0.0, 0.0, 0.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "En seis tiempos cajon grave",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "cajon agudo",
+            "tempoHits": [0.5, 1.0, 1.5, 2.0, 2.5, 3.5, 4.0, 4.5, 5.0, 5.5, 6.5, 7.0, 7.5, 8.0, 8.5, 9.5, 10.0, 10.5, 11.0, 11.5],
+            "tempoInstrument": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+            "tempoIntensities": [6.0, 6.0, 4.0, 6.0, 6.0, 6.0, 6.0, 4.0, 6.0, 6.0, 6.0, 6.0, 4.0, 6.0, 6.0, 6.0, 6.0, 4.0, 6.0, 6.0],
+            "instrumentVolume": 4.0
+        }],
+        "name": "En seis tiempos cajon agudo",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [1.0, 2.0, 3.0, 4.0, 5.0, 7.0, 8.0, 9.0, 10.0, 11.0],
+            "tempoInstrument": [2, 2, 2, 2, 2, 2, 2, 2, 2, 2],
+            "tempoIntensities": [2.0, 4.0, 2.0, 4.0, 2.0, 2.0, 4.0, 2.0, 4.0, 2.0],
+            "instrumentVolume": 4.0
+        }],
+        "name": "En seis tiempos palmas",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "cajon grave",
+            "tempoHits": [0.0, 3.0, 6.0, 8.0, 10.0],
+            "tempoInstrument": [0, 0, 0, 0, 0],
+            "tempoIntensities": [0.0, 0.0, 0.0, 0.0, 0.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "Bulerías antiguas",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "cajon agudo",
+            "tempoHits": [0.5, 1.0, 1.5, 2.0, 2.5, 3.5, 4.0, 4.5, 5.0, 5.5, 6.5, 7.0, 7.5, 8.5, 9.0, 9.5, 10.5, 11.0, 11.5],
+            "tempoInstrument": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+            "tempoIntensities": [6.0, 6.0, 4.0, 6.0, 6.0, 6.0, 6.0, 4.0, 6.0, 6.0, 6.0, 6.0, 4.0, 6.0, 6.0, 4.0, 6.0, 6.0, 4.0],
+            "instrumentVolume": 2.0
+        }],
+        "name": "Bulerías antiguas",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [0.0, 1.0, 1.5, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 7.5, 8.0, 9.0, 9.5, 10.0, 11.0],
+            "tempoInstrument": [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2],
+            "tempoIntensities": [0.0, 2.0, 2.0, 2.0, 0.0, 2.0, 2.0, 0.0, 2.0, 2.0, 0.0, 2.0, 2.0, 0.0, 2.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "Bulerías antiguas",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "cajon grave",
+            "tempoHits": [0.0, 6.0, 11.5],
+            "tempoInstrument": [0, 0, 0],
+            "tempoIntensities": [2.0, 2.0, 3.0],
+            "instrumentVolume": 4.0
+        }],
+        "name": "Bulerías en seis octavos",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "cajon agudo",
+            "tempoHits": [0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 4.5, 5.0, 5.5, 6.5, 7.0, 7.5, 8.0, 8.5, 9.0, 9.5, 10.0, 10.5, 11.0],
+            "tempoInstrument": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+            "tempoIntensities": [6.0, 6.0, 3.0, 6.0, 6.0, 3.0, 6.0, 6.0, 3.0, 6.0, 6.0, 6.0, 6.0, 3.0, 6.0, 6.0, 3.0, 6.0, 6.0, 3.0, 6.0],
+            "instrumentVolume": 4.0
+        }],
+        "name": "Bulerías en seis octavos",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [1.0, 2.0, 3.0, 4.0, 5.0, 7.0, 8.0, 9.0, 10.0, 11.0],
+            "tempoInstrument": [2, 2, 2, 2, 2, 2, 2, 2, 2, 2],
+            "tempoIntensities": [2.0, 4.0, 2.0, 4.0, 2.0, 2.0, 4.0, 2.0, 4.0, 2.0],
+            "instrumentVolume": 4.0
+        }],
+        "name": "Bulerías en seis octavos",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }],
+    "name": "Bulerías",
+    "selectedAudio": 0
+}, {
+    "clocks": [{
+        "agujaColor": "#000000",
+        "backGroundColor": "#7fffffff",
+        "centerCircleColor": "#F27F54",
+        "clockAccents": [0, 3, 7, 8, 10],
+        "clockImageURL": "",
+        "clockNumbers": ["12", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"],
+        "hightLightedNumberColor": "#000000",
+        "name": "SONIQUETE MODERNO",
+        "numbersColor": "#F27F54",
+        "tracks": [{
+            "name": "cajon grave",
+            "patternSequence": [0],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "cajon agudo",
+            "patternSequence": [1],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "palmas",
+            "patternSequence": [2],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "pandereta",
+            "patternSequence": [3],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }],
+        "automaticGain": true,
+        "initialClockAngle": 0.0,
+        "initialNumbersAngle": 0.0,
+        "numbersDeltaAngle": 30.0,
+        "numbersRadioFactor": 1.0,
+        "tempoFraction": 1.0,
+        "tracksGeneralGain": 2.127243808225403,
+        "clockId": 5,
+        "clockImageId": 1,
+        "defaultBPM": 150,
+        "maxBPM": 180,
+        "minBPM": 50,
+        "startAccent": 0
+    }, {
+        "agujaColor": "#000000",
+        "backGroundColor": "#7fffffff",
+        "centerCircleColor": "#F27F54",
+        "clockAccents": [0, 3, 6, 8, 10],
+        "clockImageURL": "",
+        "clockNumbers": ["12", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"],
+        "hightLightedNumberColor": "#000000",
+        "name": "SONIQUETE ANTIGUO",
+        "numbersColor": "#F27F54",
+        "tracks": [{
+            "name": "cajon grave",
+            "patternSequence": [4],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "cajon agudo",
+            "patternSequence": [5],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "palmas",
+            "patternSequence": [6],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "pandereta",
+            "patternSequence": [7],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }],
+        "automaticGain": true,
+        "initialClockAngle": 0.0,
+        "initialNumbersAngle": 0.0,
+        "numbersDeltaAngle": 30.0,
+        "numbersRadioFactor": 1.0,
+        "tempoFraction": 1.0,
+        "tracksGeneralGain": 2.127243808225403,
+        "clockId": 6,
+        "clockImageId": 1,
+        "defaultBPM": 150,
+        "maxBPM": 180,
+        "minBPM": 50,
+        "startAccent": 0
+    }],
+    "compasPatterns": [{
+        "instruments": [{
+            "instrument": "cajon grave",
+            "tempoHits": [0.0, 3.0, 7.0, 8.0, 10.0],
+            "tempoInstrument": [0, 0, 0, 0, 0],
+            "tempoIntensities": [2.0, 2.0, 2.0, 2.0, 2.0],
+            "instrumentVolume": 4.0
+        }],
+        "name": "Alegrías soniquete moderno",
+        "generalVolume": 2.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "cajon agudo",
+            "tempoHits": [0.5, 1.0, 1.5, 2.0, 2.5, 3.5, 4.0, 4.5, 5.0, 5.5, 6.0, 6.5, 7.5, 8.5, 9.0, 9.5, 10.5, 11.0, 11.5],
+            "tempoInstrument": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+            "tempoIntensities": [6.0, 6.0, 4.0, 6.0, 6.0, 6.0, 6.0, 4.0, 6.0, 6.0, 6.0, 3.0, 6.0, 6.0, 6.0, 3.0, 6.0, 4.0, 6.0],
+            "instrumentVolume": 4.0
+        }],
+        "name": "Alegrías soniquete moderno",
+        "generalVolume": 2.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [0.0, 1.0, 1.5, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 7.5, 8.0, 9.0, 9.5, 10.0],
+            "tempoInstrument": [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2],
+            "tempoIntensities": [0.0, 2.0, 2.0, 2.0, 0.0, 2.0, 2.0, 6.0, 1.0, 1.0, 0.0, 1.0, 1.0, 0.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "Alegrías soniquete moderno",
+        "generalVolume": 2.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "pandereta",
+            "tempoHits": [0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 4.5, 5.0, 5.5, 6.0, 6.5, 7.0, 7.5, 8.0, 8.5, 9.0, 9.5, 10.0, 10.5, 11.0, 11.5],
+            "tempoInstrument": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+            "tempoIntensities": [6.0, 5.0, 6.0, 5.0, 6.0, 5.0, 6.0, 5.0, 6.0, 5.0, 6.0, 5.0, 6.0, 5.0, 6.0, 5.0, 6.0, 5.0, 6.0, 5.0, 6.0, 5.0, 6.0, 5.0],
+            "instrumentVolume": 8.0
+        }],
+        "name": "Alegrías soniquete moderno",
+        "generalVolume": 2.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "cajon grave",
+            "tempoHits": [0.0, 3.0, 6.0, 8.0, 10.0],
+            "tempoInstrument": [0, 0, 0, 0, 0],
+            "tempoIntensities": [2.0, 2.0, 2.0, 2.0, 2.0],
+            "instrumentVolume": 4.0
+        }],
+        "name": "Alegrías soniquete antiguo",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "cajon agudo",
+            "tempoHits": [0.5, 1.0, 1.5, 2.0, 2.5, 3.5, 4.0, 4.5, 5.0, 5.5, 6.5, 7.0, 7.5, 8.5, 9.0, 9.5, 10.5, 11.0, 11.5],
+            "tempoInstrument": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+            "tempoIntensities": [6.0, 6.0, 4.0, 6.0, 6.0, 6.0, 6.0, 4.0, 6.0, 6.0, 6.0, 6.0, 4.0, 6.0, 6.0, 4.0, 6.0, 4.0, 6.0],
+            "instrumentVolume": 4.0
+        }],
+        "name": "Alegrías soniquete antiguo",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [0.0, 1.0, 1.5, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0, 11.0],
+            "tempoInstrument": [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2],
+            "tempoIntensities": [0.0, 2.0, 2.0, 2.0, 0.0, 2.0, 2.0, 0.0, 2.0, 0.0, 2.0, 0.0, 2.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "Alegrías soniquete antiguo",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "pandereta",
+            "tempoHits": [0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 4.5, 5.0, 5.5, 6.0, 6.5, 7.0, 7.5, 8.0, 8.5, 9.0, 9.5, 10.0, 10.5, 11.0, 11.5],
+            "tempoInstrument": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+            "tempoIntensities": [6.0, 5.0, 6.0, 5.0, 6.0, 5.0, 6.0, 5.0, 6.0, 5.0, 6.0, 5.0, 6.0, 5.0, 6.0, 5.0, 6.0, 5.0, 6.0, 5.0, 6.0, 5.0, 6.0, 5.0],
+            "instrumentVolume": 8.0
+        }],
+        "name": "Alegrías soniquete antiguo",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "cajon grave",
+            "tempoHits": [0.0, 3.0, 6.0, 8.0, 10.0],
+            "tempoInstrument": [0, 0, 0, 0, 0],
+            "tempoIntensities": [2.0, 2.0, 2.0, 2.0, 2.0],
+            "instrumentVolume": 4.0
+        }, {
+            "instrument": "cajon agudo",
+            "tempoHits": [0.5, 1.0, 1.5, 2.0, 2.5, 3.5, 4.0, 4.5, 5.0, 5.5, 6.5, 7.0, 7.5, 8.5, 9.0, 9.5, 10.5, 11.0, 11.5],
+            "tempoInstrument": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+            "tempoIntensities": [6.0, 6.0, 4.0, 6.0, 6.0, 6.0, 6.0, 4.0, 6.0, 6.0, 6.0, 6.0, 4.0, 6.0, 6.0, 4.0, 6.0, 4.0, 6.0],
+            "instrumentVolume": 4.0
+        }, {
+            "instrument": "pandereta",
+            "tempoHits": [0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 4.5, 5.0, 5.5, 6.0, 6.5, 7.0, 7.5, 8.0, 8.5, 9.0, 9.5, 10.0, 10.5, 11.0, 11.5],
+            "tempoInstrument": [5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5],
+            "tempoIntensities": [6.0, 5.0, 6.0, 5.0, 6.0, 5.0, 6.0, 5.0, 6.0, 5.0, 6.0, 5.0, 6.0, 5.0, 6.0, 5.0, 6.0, 5.0, 6.0, 5.0, 6.0, 5.0, 6.0, 5.0],
+            "instrumentVolume": 8.0
+        }, {
+            "instrument": "palmas",
+            "tempoHits": [0.0, 1.0, 1.5, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0, 11.0],
+            "tempoInstrument": [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2],
+            "tempoIntensities": [0.0, 2.0, 2.0, 2.0, 0.0, 2.0, 2.0, 0.0, 2.0, 0.0, 2.0, 0.0, 2.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "Alegrías soniquete antiguo",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }],
+    "name": "Alegrías",
+    "selectedAudio": 0
+}, {
+    "clocks": [{
+        "agujaColor": "#000000",
+        "backGroundColor": "#7fffffff",
+        "centerCircleColor": "#E25723",
+        "clockAccents": [0, 3, 6, 9, 10],
+        "clockImageURL": "",
+        "clockNumbers": ["12", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"],
+        "hightLightedNumberColor": "#ffffff",
+        "name": "EN DOCE TIEMPOS",
+        "numbersColor": "#E25723",
+        "tracks": [{
+            "name": "cajon grave",
+            "patternSequence": [0],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "cajon agudo",
+            "patternSequence": [1],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "palmas",
+            "patternSequence": [2],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }],
+        "automaticGain": true,
+        "initialClockAngle": 0.0,
+        "initialNumbersAngle": 0.0,
+        "numbersDeltaAngle": 30.0,
+        "numbersRadioFactor": 1.0,
+        "tempoFraction": 1.0,
+        "tracksGeneralGain": 1.9402534343912834,
+        "clockId": 7,
+        "clockImageId": 2,
+        "defaultBPM": 155,
+        "maxBPM": 250,
+        "minBPM": 50,
+        "startAccent": 0
+    }, {
+        "agujaColor": "#000000",
+        "backGroundColor": "#7fffffff",
+        "centerCircleColor": "#E25723",
+        "clockAccents": [0, 3, 4, 6, 9, 10],
+        "clockImageURL": "",
+        "clockNumbers": ["12", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"],
+        "hightLightedNumberColor": "#ffffff",
+        "name": "EN SEIS TIEMPOS",
+        "numbersColor": "#E25723",
+        "tracks": [{
+            "name": "cajon grave",
+            "patternSequence": [3],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "cajon agudo",
+            "patternSequence": [4],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "palmas",
+            "patternSequence": [5],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }],
+        "automaticGain": true,
+        "initialClockAngle": 0.0,
+        "initialNumbersAngle": 0.0,
+        "numbersDeltaAngle": 30.0,
+        "numbersRadioFactor": 1.0,
+        "tempoFraction": 1.0,
+        "tracksGeneralGain": 1.9405981640509327,
+        "clockId": 8,
+        "clockImageId": 2,
+        "defaultBPM": 155,
+        "maxBPM": 250,
+        "minBPM": 50,
+        "startAccent": 0
+    }, {
+        "agujaColor": "#000000",
+        "backGroundColor": "#7fffffff",
+        "centerCircleColor": "#E25723",
+        "clockAccents": [0, 3, 6, 9],
+        "clockImageURL": "",
+        "clockNumbers": ["12", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"],
+        "hightLightedNumberColor": "#ffffff",
+        "name": "EN TRES TIEMPOS",
+        "numbersColor": "#E25723",
+        "tracks": [{
+            "name": "cajon grave",
+            "patternSequence": [6],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "cajon agudo",
+            "patternSequence": [7],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "palmas",
+            "patternSequence": [8],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }],
+        "automaticGain": true,
+        "initialClockAngle": 0.0,
+        "initialNumbersAngle": 0.0,
+        "numbersDeltaAngle": 30.0,
+        "numbersRadioFactor": 1.0,
+        "tempoFraction": 1.0,
+        "tracksGeneralGain": 1.9404832405543053,
+        "clockId": 9,
+        "clockImageId": 2,
+        "defaultBPM": 155,
+        "maxBPM": 250,
+        "minBPM": 50,
+        "startAccent": 0
+    }],
+    "compasPatterns": [{
+        "instruments": [{
+            "instrument": "cajon grave",
+            "tempoHits": [0.0, 3.0, 6.0, 9.0, 10.0],
+            "tempoInstrument": [0, 0, 0, 0, 0],
+            "tempoIntensities": [2.0, 2.0, 2.0, 2.0, 2.0],
+            "instrumentVolume": 4.0
+        }],
+        "name": "Fandangos en 12",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "cajon agudo",
+            "tempoHits": [0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 4.5, 5.0, 5.5, 6.0, 6.5, 7.0, 7.5, 8.0, 8.5, 9.0, 9.5, 10.0],
+            "tempoInstrument": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+            "tempoIntensities": [2.0, 6.0, 6.0, 2.0, 6.0, 6.0, 2.0, 6.0, 7.0, 6.0, 7.0, 6.0, 2.0, 6.0, 6.0, 2.0, 6.0, 6.0, 2.0, 6.0, 2.0],
+            "instrumentVolume": 2.0
+        }],
+        "name": "Fandangos en 12",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [0.0, 1.0, 2.0, 3.0, 3.5, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0],
+            "tempoInstrument": [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2],
+            "tempoIntensities": [2.0, 4.0, 4.0, 3.0, 3.0, 2.0, 3.0, 2.0, 4.0, 4.0, 2.0, 2.0],
+            "instrumentVolume": 4.0
+        }],
+        "name": "Fandangos en 12",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "cajon grave",
+            "tempoHits": [0.0, 3.0, 4.0, 6.0, 9.0, 10.0],
+            "tempoInstrument": [0, 0, 0, 0, 0, 0],
+            "tempoIntensities": [2.0, 2.0, 2.0, 2.0, 2.0, 2.0],
+            "instrumentVolume": 4.0
+        }],
+        "name": "fandangos en 6",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "cajon agudo",
+            "tempoHits": [0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 4.5, 5.0, 5.5, 6.0, 6.5, 7.0, 7.5, 8.0, 8.5, 9.0, 9.5, 10.0, 10.5, 11.0, 11.5],
+            "tempoInstrument": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+            "tempoIntensities": [2.0, 6.0, 6.0, 2.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 2.0, 6.0, 6.0, 2.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0],
+            "instrumentVolume": 2.0
+        }],
+        "name": "fandangos en 6",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [0.0, 1.0, 1.5, 2.0, 3.0, 4.0, 6.0, 7.0, 7.5, 8.0, 9.0, 10.0],
+            "tempoInstrument": [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2],
+            "tempoIntensities": [2.0, 4.0, 4.0, 4.0, 2.0, 2.0, 2.0, 4.0, 4.0, 4.0, 2.0, 2.0],
+            "instrumentVolume": 4.0
+        }],
+        "name": "fandangos en 6",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "cajon grave",
+            "tempoHits": [0.0, 3.0, 6.0, 9.0],
+            "tempoInstrument": [0, 0, 0, 0],
+            "tempoIntensities": [2.0, 2.0, 2.0, 2.0],
+            "instrumentVolume": 4.0
+        }],
+        "name": "fandangos en 3",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "cajon agudo",
+            "tempoHits": [0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 4.5, 5.0, 5.5, 6.0, 6.5, 7.0, 7.5, 8.0, 8.5, 9.0, 9.5, 10.0, 10.5, 11.0, 11.5],
+            "tempoInstrument": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+            "tempoIntensities": [2.0, 6.0, 6.0, 2.0, 6.0, 6.0, 2.0, 6.0, 6.0, 2.0, 6.0, 6.0, 2.0, 6.0, 6.0, 2.0, 6.0, 6.0, 2.0, 6.0, 6.0, 2.0, 6.0, 6.0],
+            "instrumentVolume": 2.0
+        }],
+        "name": "fandangos en 3",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [0.0, 1.0, 1.5, 2.0, 3.0, 4.0, 4.5, 5.0, 6.0, 7.0, 7.5, 8.0, 9.0, 10.0, 10.5, 11.0],
+            "tempoInstrument": [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2],
+            "tempoIntensities": [2.0, 4.0, 4.0, 4.0, 2.0, 4.0, 4.0, 4.0, 2.0, 4.0, 4.0, 4.0, 2.0, 4.0, 4.0, 4.0],
+            "instrumentVolume": 4.0
+        }],
+        "name": "fandangos en 3",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }],
+    "name": "fandangos",
+    "selectedAudio": 0
+}, {
+    "clocks": [{
+        "agujaColor": "#000000",
+        "backGroundColor": "#7fffffff",
+        "centerCircleColor": "#ED3237",
+        "clockAccents": [0, 2, 4, 6, 8, 10],
+        "clockImageURL": "",
+        "clockNumbers": ["12", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"],
+        "hightLightedNumberColor": "#000000",
+        "name": "TRADICIONAL",
+        "numbersColor": "#ED3237",
+        "tracks": [{
+            "name": "cajon grave",
+            "patternSequence": [0],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "cajon agudo 1",
+            "patternSequence": [1],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "cajon agudo 2",
+            "patternSequence": [2],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "palmas 1",
+            "patternSequence": [3],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "palmas 2",
+            "patternSequence": [4],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }],
+        "automaticGain": true,
+        "initialClockAngle": 0.0,
+        "initialNumbersAngle": 0.0,
+        "numbersDeltaAngle": 30.0,
+        "numbersRadioFactor": 1.0,
+        "tempoFraction": 1.0,
+        "tracksGeneralGain": 2.205418138987043,
+        "clockId": 10,
+        "clockImageId": 3,
+        "defaultBPM": 180,
+        "maxBPM": 300,
+        "minBPM": 50,
+        "startAccent": 0
+    }],
+    "compasPatterns": [{
+        "instruments": [{
+            "instrument": "cajon grave",
+            "tempoHits": [0.0, 5.0, 6.0, 11.0],
+            "tempoInstrument": [0, 0, 0, 0],
+            "tempoIntensities": [1.0, 3.0, 1.0, 3.0],
+            "instrumentVolume": 2.0
+        }],
+        "name": "jaleos",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "cajon agudo 1",
+            "tempoHits": [1.5, 2.0, 3.5, 4.5, 7.5, 8.0, 9.5, 10.5],
+            "tempoInstrument": [1, 1, 1, 1, 1, 1, 1, 1],
+            "tempoIntensities": [3.0, 6.0, 3.0, 6.0, 3.0, 6.0, 3.0, 6.0],
+            "instrumentVolume": 2.0
+        }],
+        "name": "jaleos",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "cajon agudo 2",
+            "tempoHits": [0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 4.5, 5.0, 5.5, 6.0, 6.5, 7.0, 7.5, 8.0, 8.5, 9.0, 9.5, 10.0, 10.5, 11.0, 11.5],
+            "tempoInstrument": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+            "tempoIntensities": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+            "instrumentVolume": 0.0066666
+        }],
+        "name": "jaleos",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "palmas 1",
+            "tempoHits": [0.0, 1.5, 2.0, 3.5, 4.0, 5.0, 6.0, 7.5, 8.0, 9.5, 10.0, 11.0],
+            "tempoInstrument": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+            "tempoIntensities": [4.0, 4.0, 5.0, 4.0, 4.0, 4.0, 4.0, 4.0, 5.0, 4.0, 4.0, 4.0],
+            "instrumentVolume": 16.0
+        }],
+        "name": "jaleos",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "palmas 2",
+            "tempoHits": [0.0, 1.5, 2.0, 3.5, 4.5, 6.0, 7.5, 8.0, 9.5, 10.5],
+            "tempoInstrument": [2, 2, 2, 2, 2, 2, 2, 2, 2, 2],
+            "tempoIntensities": [4.0, 4.0, 5.0, 4.0, 4.0, 4.0, 4.0, 5.0, 4.0, 4.0],
+            "instrumentVolume": 16.0
+        }],
+        "name": "jaleos",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }],
+    "name": "jaleos",
+    "selectedAudio": 0
+}, {
+    "clocks": [{
+        "agujaColor": "#000000",
+        "backGroundColor": "#7fffffff",
+        "centerCircleColor": "#EB6129",
+        "clockAccents": [0, 3, 6, 8, 10],
+        "clockImageURL": "",
+        "clockNumbers": ["12", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"],
+        "hightLightedNumberColor": "#000000",
+        "name": "TRADICIONAL",
+        "numbersColor": "#EB6129",
+        "tracks": [{
+            "name": "cajon grave",
+            "patternSequence": [0],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "cajon agudo",
+            "patternSequence": [1],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "palmas",
+            "patternSequence": [2],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }],
+        "automaticGain": true,
+        "initialClockAngle": 0,
+        "initialNumbersAngle": 0.0,
+        "numbersDeltaAngle": 30.0,
+        "numbersRadioFactor": 1.0,
+        "tempoFraction": 1.0,
+        "tracksGeneralGain": 2.2125662581451095,
+        "clockId": 11,
+        "clockImageId": 4,
+        "defaultBPM": 100,
+        "maxBPM": 300,
+        "minBPM": 50,
+        "startAccent": 8
+    }],
+    "compasPatterns": [{
+        "instruments": [{
+            "instrument": "cajon grave",
+            "tempoHits": [0.0, 2.0, 4.0, 7.0, 10.0],
+            "tempoInstrument": [0, 0, 0, 0, 0],
+            "tempoIntensities": [2.0, 2.0, 2.0, 2.0, 2.0],
+            "instrumentVolume": 4.0
+        }],
+        "name": "seguiriyas",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "cajon agudo",
+            "tempoHits": [0.0, 1.0, 1.5, 2.0, 3.0, 3.5, 4.0, 5.0, 5.5, 6.0, 7.0, 8.0, 8.5, 9.0, 10.0, 11.0],
+            "tempoInstrument": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+            "tempoIntensities": [3.0, 6.0, 6.0, 3.0, 6.0, 6.0, 3.0, 6.0, 3.0, 6.0, 3.0, 6.0, 3.0, 6.0, 3.0, 3.0],
+            "instrumentVolume": 2.0
+        }],
+        "name": "seguiriyas",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [0.0, 1.0, 1.5, 2.0, 3.0, 3.5, 4.0, 5.0, 5.5, 6.0, 7.0, 8.0, 8.5, 9.0, 10.0, 11.0],
+            "tempoInstrument": [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2],
+            "tempoIntensities": [4.0, 6.0, 6.0, 4.0, 6.0, 6.0, 4.0, 6.0, 5.0, 7.0, 4.0, 6.0, 5.0, 6.0, 4.0, 5.0],
+            "instrumentVolume": 16.0
+        }],
+        "name": "seguiriyas",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }],
+    "name": "seguiriyas",
+    "selectedAudio": 0
+}, {
+    "clocks": [{
+        "agujaColor": "#ffffff",
+        "backGroundColor": "#7fffffff",
+        "centerCircleColor": "#D74914",
+        "clockAccents": [0, 3, 7, 8, 10],
+        "clockImageURL": "",
+        "clockNumbers": ["12", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"],
+        "hightLightedNumberColor": "#ffffff",
+        "name": "COMPAS MODERNO",
+        "numbersColor": "#D74914",
+        "tracks": [{
+            "name": "cajon grave",
+            "patternSequence": [0],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "cajon agudo",
+            "patternSequence": [1],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "palmas",
+            "patternSequence": [2],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }],
+        "automaticGain": true,
+        "initialClockAngle": 0.0,
+        "initialNumbersAngle": 0.0,
+        "numbersDeltaAngle": 30.0,
+        "numbersRadioFactor": 1.0,
+        "tempoFraction": 1.0,
+        "tracksGeneralGain": 1.8196812350752485,
+        "clockId": 12,
+        "clockImageId": 5,
+        "defaultBPM": 90,
+        "maxBPM": 250,
+        "minBPM": 50,
+        "startAccent": 0
+    }, {
+        "agujaColor": "#ffffff",
+        "backGroundColor": "#7fffffff",
+        "centerCircleColor": "#D74914",
+        "clockAccents": [0, 3, 6, 8, 10],
+        "clockImageURL": "",
+        "clockNumbers": ["12", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"],
+        "hightLightedNumberColor": "#ffffff",
+        "name": "COMPAS ANTIGUO",
+        "numbersColor": "#D74914",
+        "tracks": [{
+            "name": "cajon grave",
+            "patternSequence": [3],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "cajon agudo",
+            "patternSequence": [4],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "palmas 1",
+            "patternSequence": [5],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "palmas 2",
+            "patternSequence": [6],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }],
+        "automaticGain": true,
+        "initialClockAngle": 0.0,
+        "initialNumbersAngle": 0.0,
+        "numbersDeltaAngle": 30.0,
+        "numbersRadioFactor": 1.0,
+        "tempoFraction": 1.0,
+        "tracksGeneralGain": 1.333211270470959,
+        "clockId": 13,
+        "clockImageId": 5,
+        "defaultBPM": 90,
+        "maxBPM": 250,
+        "minBPM": 50,
+        "startAccent": 0
+    }],
+    "compasPatterns": [{
+        "instruments": [{
+            "instrument": "cajon grave",
+            "tempoHits": [0.0, 3.0, 7.0, 7.5, 8.0, 10.0],
+            "tempoInstrument": [0, 0, 0, 0, 0, 0],
+            "tempoIntensities": [3.0, 3.0, 3.0, 3.0, 3.0, 3.0],
+            "instrumentVolume": 8.0
+        }],
+        "name": "soleares moderno",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "cajon agudo",
+            "tempoHits": [1.5, 2.0, 4.5, 5.0, 6.0, 9.5, 9.625, 9.75, 9.875, 11.5, 11.625, 11.75, 11.875],
+            "tempoInstrument": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+            "tempoIntensities": [6.0, 5.0, 6.0, 7.0, 7.0, 7.0, 6.0, 7.0, 6.0, 7.0, 6.0, 5.0, 4.0],
+            "instrumentVolume": 8.0
+        }],
+        "name": "soleares moderno",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [0.0, 1.5, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 7.5, 8.0, 9.5, 10.0],
+            "tempoInstrument": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
+            "tempoIntensities": [4.0, 7.0, 7.0, 4.0, 7.0, 7.0, 7.0, 5.0, 5.0, 4.0, 5.0, 4.0],
+            "instrumentVolume": 8.0
+        }],
+        "name": "soleares moderno",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "cajon grave",
+            "tempoHits": [0.0, 3.0, 6.0, 7.5, 8.0, 9.5, 10.0],
+            "tempoInstrument": [0, 0, 0, 0, 0, 0, 0],
+            "tempoIntensities": [3.0, 3.0, 3.0, 4.0, 3.0, 4.0, 3.0],
+            "instrumentVolume": 8.0
+        }],
+        "name": "soleares antiguo",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "cajon agudo",
+            "tempoHits": [1.5, 2.0, 4.5, 5.0, 0.0, 3.0, 6.0, 7.5, 8.0, 9.5, 10.0],
+            "tempoInstrument": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+            "tempoIntensities": [6.0, 5.0, 6.0, 6.0, 5.0, 5.0, 5.0, 7.0, 5.0, 7.0, 5.0],
+            "instrumentVolume": 8.0
+        }],
+        "name": "soleares antiguo",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "palmas 1",
+            "tempoHits": [0.0, 1.5, 2.0, 3.0, 4.0, 5.0, 6.0, 6.0, 7.5, 8.0, 9.5, 10.0],
+            "tempoInstrument": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4],
+            "tempoIntensities": [4.0, 7.0, 7.0, 4.0, 7.0, 7.0, 4.0, 5.0, 5.0, 4.0, 5.0, 4.0],
+            "instrumentVolume": 16.0
+        }],
+        "name": "soleares antiguo",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "palmas 2",
+            "tempoHits": [0.0, 3.0, 6.0, 7.5, 8.0, 9.5, 10.0],
+            "tempoInstrument": [3, 3, 3, 3, 3, 3, 3],
+            "tempoIntensities": [5.0, 5.0, 5.0, 5.0, 5.0, 5.0, 5.0],
+            "instrumentVolume": 32.0
+        }],
+        "name": "soleares antiguo",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }],
+    "name": "soleares",
+    "selectedAudio": 0
+}, {
+    "clocks": [{
+        "agujaColor": "#000000",
+        "backGroundColor": "#7fffffff",
+        "centerCircleColor": "#D74914",
+        "clockAccents": [0, 1, 2, 3],
+        "clockImageURL": "",
+        "clockNumbers": ["1", "2", "3", "4"],
+        "hightLightedNumberColor": "#000000",
+        "name": "TRADICIONAL",
+        "numbersColor": "#D74914",
+        "tracks": [{
+            "name": "cajon grave",
+            "patternSequence": [0],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "cajon agudo",
+            "patternSequence": [1],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "palmas 1",
+            "patternSequence": [2],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "palmas 2",
+            "patternSequence": [3],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }],
+        "automaticGain": true,
+        "initialClockAngle": -1.571,
+        "initialNumbersAngle": -1.571,
+        "numbersDeltaAngle": 60.0,
+        "numbersRadioFactor": 1.55,
+        "tempoFraction": 1.0,
+        "tracksGeneralGain": 2.1988323714937588,
+        "clockId": 14,
+        "clockImageId": 6,
+        "defaultBPM": 180,
+        "maxBPM": 300,
+        "minBPM": 50,
+        "startAccent": 0
+    }],
+    "compasPatterns": [{
+        "instruments": [{
+            "instrument": "cajon grave",
+            "tempoHits": [0.0, 1.5, 3.0],
+            "tempoInstrument": [0, 0, 0],
+            "tempoIntensities": [2.0, 2.0, 2.0],
+            "instrumentVolume": 4.0
+        }],
+        "name": "rumbas",
+        "generalVolume": 1.0,
+        "numberOfTempos": 8
+    }, {
+        "instruments": [{
+            "instrument": "cajon agudo",
+            "tempoHits": [3.5, 5.5, 6.0, 7.0, 7.5],
+            "tempoInstrument": [1, 1, 1, 1, 1],
+            "tempoIntensities": [3.0, 4.0, 3.0, 4.0, 3.0],
+            "instrumentVolume": 4.0
+        }],
+        "name": "rumbas",
+        "generalVolume": 1.0,
+        "numberOfTempos": 8
+    }, {
+        "instruments": [{
+            "instrument": "palmas 1",
+            "tempoHits": [0.0, 1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0],
+            "tempoInstrument": [2, 2, 2, 2, 2, 2, 2, 2],
+            "tempoIntensities": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+            "instrumentVolume": 0.5
+        }],
+        "name": "rumbas",
+        "generalVolume": 1.0,
+        "numberOfTempos": 8
+    }, {
+        "instruments": [{
+            "instrument": "palmas 2",
+            "tempoHits": [0.5, 1.5, 2.5, 3.5, 4.5, 5.5, 6.5, 7.5],
+            "tempoInstrument": [3, 3, 3, 3, 3, 3, 3, 3],
+            "tempoIntensities": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+            "instrumentVolume": 0.5
+        }],
+        "name": "rumbas",
+        "generalVolume": 1.0,
+        "numberOfTempos": 8
+    }],
+    "name": "rumbas",
+    "selectedAudio": 0
+}, {
+    "clocks": [{
+        "agujaColor": "#000000",
+        "backGroundColor": "#7fffffff",
+        "centerCircleColor": "#D74914",
+        "clockAccents": [0, 1, 2, 3],
+        "clockImageURL": "",
+        "clockNumbers": ["1", "2", "3", "4"],
+        "hightLightedNumberColor": "#000000",
+        "name": "TRADICIONAL",
+        "numbersColor": "#D74914",
+        "tracks": [{
+            "name": "cajon grave",
+            "patternSequence": [0],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "cajon agudo",
+            "patternSequence": [1],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "palmas",
+            "patternSequence": [2],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }],
+        "automaticGain": true,
+        "initialClockAngle": -1.571,
+        "initialNumbersAngle": -1.571,
+        "numbersDeltaAngle": 60.0,
+        "numbersRadioFactor": 1.55,
+        "tempoFraction": 1.0,
+        "tracksGeneralGain": 2.199496559825474,
+        "clockId": 15,
+        "clockImageId": 7,
+        "defaultBPM": 140,
+        "maxBPM": 250,
+        "minBPM": 50,
+        "startAccent": 0
+    }],
+    "compasPatterns": [{
+        "instruments": [{
+            "instrument": "cajon grave",
+            "tempoHits": [1.5, 3.0, 5.5, 6.0, 7.0],
+            "tempoInstrument": [0, 0, 0, 0, 0],
+            "tempoIntensities": [2.0, 2.0, 2.0, 4.0, 2.0],
+            "instrumentVolume": 4.0
+        }],
+        "name": "tangos",
+        "generalVolume": 1.0,
+        "numberOfTempos": 8
+    }, {
+        "instruments": [{
+            "instrument": "cajon agudo",
+            "tempoHits": [0.5, 1.0, 4.5, 5.0],
+            "tempoInstrument": [1, 1, 1, 1],
+            "tempoIntensities": [6.0, 4.0, 6.0, 4.0],
+            "instrumentVolume": 8.0
+        }],
+        "name": "tangos",
+        "generalVolume": 1.0,
+        "numberOfTempos": 8
+    }, {
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [1.0, 2.0, 3.0, 5.0, 5.5, 6.0, 7.0],
+            "tempoInstrument": [2, 2, 2, 2, 2, 2, 2],
+            "tempoIntensities": [4.0, 4.0, 4.0, 4.0, 3.0, 4.0, 3.0],
+            "instrumentVolume": 8.0
+        }],
+        "name": "tangos",
+        "generalVolume": 1.0,
+        "numberOfTempos": 8
+    }],
+    "name": "tangos",
+    "selectedAudio": 0
+}, {
+    "clocks": [{
+        "agujaColor": "#000000",
+        "backGroundColor": "#7fffffff",
+        "centerCircleColor": "#D74914",
+        "clockAccents": [1, 3, 4, 6, 9, 11, 12],
+        "clockImageURL": "",
+        "clockNumbers": ["1", "½", "2", "½", "3", "½", "4", "", "1", "½", "2", "½", "3", "½", "4", ""],
+        "hightLightedNumberColor": "#000000",
+        "name": "TRADICIONAL",
+        "numbersColor": "#D74914",
+        "tracks": [{
+            "name": "cajon grave",
+            "patternSequence": [0],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "palmas",
+            "patternSequence": [1],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }],
+        "automaticGain": true,
+        "initialClockAngle": -1.1781,
+        "initialNumbersAngle": -1.1781,
+        "numbersDeltaAngle": 22.5,
+        "numbersRadioFactor": 1.4,
+        "tempoFraction": 2.0,
+        "tracksGeneralGain": 2.200973971452561,
+        "clockId": 16,
+        "clockImageId": 8,
+        "defaultBPM": 90,
+        "maxBPM": 250,
+        "minBPM": 50,
+        "startAccent": 0
+    }],
+    "compasPatterns": [{
+        "instruments": [{
+            "instrument": "cajon grave",
+            "tempoHits": [0.0, 3.5, 4.0],
+            "tempoInstrument": [0, 0, 0],
+            "tempoIntensities": [0.0, 2.0, 0.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "tientos",
+        "generalVolume": 1.0,
+        "numberOfTempos": 8
+    }, {
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [0.5, 1.5, 2.0, 3.0, 4.5, 5.5, 6.0],
+            "tempoInstrument": [2, 2, 2, 2, 2, 2, 2],
+            "tempoIntensities": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "tientos",
+        "generalVolume": 1.0,
+        "numberOfTempos": 8
+    }],
+    "name": "tientos",
+    "selectedAudio": 0
+}, {
+    "clocks": [{
+        "agujaColor": "#000000",
+        "backGroundColor": "#7fffffff",
+        "centerCircleColor": "#F15921",
+        "clockAccents": [0, 3, 6, 9],
+        "clockImageURL": "",
+        "clockNumbers": ["6", "1", "2", "3", "4", "5", "6", "1", "2", "3", "4", "5"],
+        "hightLightedNumberColor": "#000000",
+        "name": "TRADICIONAL",
+        "numbersColor": "#F15921",
+        "tracks": [{
+            "name": "cajon grave",
+            "patternSequence": [0],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "cajon agudo",
+            "patternSequence": [1],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "palmas",
+            "patternSequence": [2],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }],
+        "automaticGain": true,
+        "initialClockAngle": 0.0,
+        "initialNumbersAngle": 0.0,
+        "numbersDeltaAngle": 30.0,
+        "numbersRadioFactor": 1.0,
+        "tempoFraction": 2.0,
+        "tracksGeneralGain": 2.217657608879564,
+        "clockId": 17,
+        "clockImageId": 9,
+        "defaultBPM": 150,
+        "maxBPM": 250,
+        "minBPM": 50,
+        "startAccent": 0
+    }],
+    "compasPatterns": [{
+        "instruments": [{
+            "instrument": "cajon grave",
+            "tempoHits": [0.0, 3.0, 5.0, 6.0, 9.0, 11.0],
+            "tempoInstrument": [0, 0, 0, 0, 0, 0],
+            "tempoIntensities": [2.0, 2.0, 3.0, 2.0, 2.0, 3.0],
+            "instrumentVolume": 4.0
+        }],
+        "name": "tanguillos",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "cajon agudo",
+            "tempoHits": [0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 4.5, 5.0, 5.5, 6.0, 6.5, 7.0, 7.5, 8.0, 8.5, 9.0, 9.5, 10.0, 10.5, 11.0, 11.5],
+            "tempoInstrument": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+            "tempoIntensities": [4.0, 6.0, 5.0, 6.0, 3.0, 5.0, 4.0, 5.0, 5.0, 6.0, 3.0, 5.0, 4.0, 6.0, 5.0, 6.0, 3.0, 5.0, 4.0, 5.0, 5.0, 6.0, 3.0, 5.0],
+            "instrumentVolume": 4.0
+        }],
+        "name": "tanguillos",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [0.5, 1.0, 1.5, 2.0, 3.5, 4.0, 4.5, 5.0, 6.5, 7.0, 7.5, 8.0, 9.5, 10.0, 10.5, 11.0],
+            "tempoInstrument": [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2],
+            "tempoIntensities": [2.0, 3.0, 4.0, 0.0, 2.0, 3.0, 4.0, 0.0, 2.0, 3.0, 4.0, 0.0, 2.0, 3.0, 4.0, 0.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "tanguillos",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }],
+    "name": "tanguillos",
+    "selectedAudio": 0
+}, {
+    "clocks": [{
+        "agujaColor": "#000000",
+        "backGroundColor": "#7fffffff",
+        "centerCircleColor": "#d0d0d0",
+        "clockAccents": [0, 1, 2],
+        "clockImageURL": "",
+        "clockNumbers": ["1", "2", "3"],
+        "hightLightedNumberColor": "#d0d0d0",
+        "labels": {
+            "labelPos": [2, 10, 15, 27, 39],
+            "labels": ["INTRO", "SALIDA", "1er TERCIO", "2do TERCIO", "3er TERCIO"]
+        },
+        "name": "COMPLETA",
+        "numbersColor": "#d0d0d0",
+        "tracks": [{
+            "name": "track 1",
+            "patternSequence": [0, 0, 1, 1, 1, 1, 2, 1, 2, 2, 0, 0, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 2, 1],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }],
+        "automaticGain": true,
+        "initialClockAngle": -1.0472,
+        "initialNumbersAngle": -1.0472,
+        "numbersDeltaAngle": 60.0,
+        "numbersRadioFactor": 1.25,
+        "tempoFraction": 1.0,
+        "tracksGeneralGain": 2.039207144412982,
+        "clockId": 18,
+        "clockImageId": 10,
+        "defaultBPM": 150,
+        "maxBPM": 300,
+        "minBPM": 50,
+        "startAccent": 0
+    }, {
+        "agujaColor": "#000000",
+        "backGroundColor": "#7fffffff",
+        "centerCircleColor": "#d0d0d0",
+        "clockAccents": [0, 1, 2],
+        "clockImageURL": "",
+        "clockNumbers": ["1", "2", "3"],
+        "hightLightedNumberColor": "#d0d0d0",
+        "name": "1er TERCIO",
+        "numbersColor": "#d0d0d0",
+        "tracks": [{
+            "name": "track 1",
+            "patternSequence": [0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }],
+        "automaticGain": true,
+        "initialClockAngle": -1.0472,
+        "initialNumbersAngle": -1.0472,
+        "numbersDeltaAngle": 60.0,
+        "numbersRadioFactor": 1.25,
+        "tempoFraction": 1.0,
+        "tracksGeneralGain": 2.039207144412982,
+        "clockId": 19,
+        "clockImageId": 10,
+        "defaultBPM": 150,
+        "maxBPM": 300,
+        "minBPM": 50,
+        "startAccent": 0
+    }, {
+        "agujaColor": "#000000",
+        "backGroundColor": "#7fffffff",
+        "centerCircleColor": "#d0d0d0",
+        "clockAccents": [0, 1, 2],
+        "clockImageURL": "",
+        "clockNumbers": ["1", "2", "3"],
+        "hightLightedNumberColor": "#d0d0d0",
+        "name": "3er TERCIO",
+        "numbersColor": "#d0d0d0",
+        "tracks": [{
+            "name": "track 1",
+            "patternSequence": [0, 0, 1, 1, 1, 1, 1, 1, 1, 2, 1],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }],
+        "automaticGain": true,
+        "initialClockAngle": -1.0472,
+        "initialNumbersAngle": -1.0472,
+        "numbersDeltaAngle": 60.0,
+        "numbersRadioFactor": 1.25,
+        "tempoFraction": 1.0,
+        "tracksGeneralGain": 2.039207144412982,
+        "clockId": 20,
+        "clockImageId": 10,
+        "defaultBPM": 150,
+        "maxBPM": 300,
+        "minBPM": 50,
+        "startAccent": 0
+    }],
+    "compasPatterns": [{
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [0.0, 1.0, 2.0],
+            "tempoInstrument": [2, 2, 2],
+            "tempoIntensities": [0.0, 4.0, 4.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "Before Intro palmas",
+        "generalVolume": 1.0,
+        "numberOfTempos": 3
+    }, {
+        "instruments": [{
+            "instrument": "todo junto",
+            "tempoHits": [0.0, 1.0, 1.5, 2.0, 0.0, 0.5, 1.0, 1.5, 2.0, 2.5],
+            "tempoInstrument": [2, 2, 2, 2, 0, 5, 5, 5, 5, 5],
+            "tempoIntensities": [0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 2.0, 1.0, 2.0, 1.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "Ritmo Base",
+        "generalVolume": 1.0,
+        "numberOfTempos": 3
+    }, {
+        "instruments": [{
+            "instrument": "todo junto",
+            "tempoHits": [0.0, 0.5, 1.0, 0.0, 0.5, 1.0],
+            "tempoInstrument": [2, 2, 2, 0, 5, 5],
+            "tempoIntensities": [0.0, 0.0, 0.0, 0.0, 1.0, 2.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "cierre",
+        "generalVolume": 1.0,
+        "numberOfTempos": 3
+    }],
+    "name": "sevillanas",
+    "selectedAudio": 0
+}, {
+    "clocks": [{
+        "agujaColor": "#000000",
+        "backGroundColor": "#7fffffff",
+        "centerCircleColor": "#D74914",
+        "clockAccents": [0, 2, 4, 6, 8, 10],
+        "clockImageURL": "",
+        "clockNumbers": ["12", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"],
+        "hightLightedNumberColor": "#000000",
+        "name": "en 2 tiempos",
+        "numbersColor": "#D74914",
+        "tracks": [{
+            "name": "compas",
+            "patternSequence": [0, 0, 0, 0, 0, 0],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "a tiempo",
+            "patternSequence": [6, 6, 6, 6, 6, 6],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "contras",
+            "patternSequence": [12, 12, 12, 12, 12, 12],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }],
+        "automaticGain": true,
+        "initialClockAngle": 0.0,
+        "initialNumbersAngle": 0.0,
+        "numbersDeltaAngle": 30.0,
+        "numbersRadioFactor": 1.0,
+        "tempoFraction": 1.0,
+        "tracksGeneralGain": 1.998780004269985,
+        "clockId": 21,
+        "clockImageId": 11,
+        "defaultBPM": 150,
+        "maxBPM": 300,
+        "minBPM": 50,
+        "startAccent": 0
+    }, {
+        "agujaColor": "#000000",
+        "backGroundColor": "#7fffffff",
+        "centerCircleColor": "#D74914",
+        "clockAccents": [0, 3, 6, 9],
+        "clockImageURL": "",
+        "clockNumbers": ["12", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"],
+        "hightLightedNumberColor": "#000000",
+        "name": "en 3 tiempos",
+        "numbersColor": "#D74914",
+        "tracks": [{
+            "name": "compas",
+            "patternSequence": [1, 1, 1, 1],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "a tiempo",
+            "patternSequence": [7, 7, 7, 7],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "contras",
+            "patternSequence": [13, 13, 13, 13],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }],
+        "automaticGain": true,
+        "initialClockAngle": 0.0,
+        "initialNumbersAngle": 0.0,
+        "numbersDeltaAngle": 30.0,
+        "numbersRadioFactor": 1.0,
+        "tempoFraction": 1.0,
+        "tracksGeneralGain": 1.998780004269985,
+        "clockId": 22,
+        "clockImageId": 11,
+        "defaultBPM": 150,
+        "maxBPM": 300,
+        "minBPM": 50,
+        "startAccent": 0
+    }, {
+        "agujaColor": "#000000",
+        "backGroundColor": "#7fffffff",
+        "centerCircleColor": "#D74914",
+        "clockAccents": [0, 4, 8],
+        "clockImageURL": "",
+        "clockNumbers": ["12", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"],
+        "hightLightedNumberColor": "#000000",
+        "name": "en 4 tiempos",
+        "numbersColor": "#D74914",
+        "tracks": [{
+            "name": "compas",
+            "patternSequence": [2, 2, 2],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "a tiempo",
+            "patternSequence": [8, 8, 8],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "contras",
+            "patternSequence": [14, 14, 14],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }],
+        "automaticGain": true,
+        "initialClockAngle": 0.0,
+        "initialNumbersAngle": 0.0,
+        "numbersDeltaAngle": 30.0,
+        "numbersRadioFactor": 1.0,
+        "tempoFraction": 1.0,
+        "tracksGeneralGain": 1.998780004269985,
+        "clockId": 23,
+        "clockImageId": 11,
+        "defaultBPM": 150,
+        "maxBPM": 300,
+        "minBPM": 50,
+        "startAccent": 0
+    }, {
+        "agujaColor": "#000000",
+        "backGroundColor": "#7fffffff",
+        "centerCircleColor": "#D74914",
+        "clockAccents": [0, 6],
+        "clockImageURL": "",
+        "clockNumbers": ["12", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"],
+        "hightLightedNumberColor": "#000000",
+        "name": "en 6 tiempos",
+        "numbersColor": "#D74914",
+        "tracks": [{
+            "name": "compas",
+            "patternSequence": [3, 3],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "a tiempo",
+            "patternSequence": [9, 9],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "contras",
+            "patternSequence": [15, 15],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }],
+        "automaticGain": true,
+        "initialClockAngle": 0.0,
+        "initialNumbersAngle": 0.0,
+        "numbersDeltaAngle": 30.0,
+        "numbersRadioFactor": 1.0,
+        "tempoFraction": 1.0,
+        "tracksGeneralGain": 1.998780004269985,
+        "clockId": 24,
+        "clockImageId": 11,
+        "defaultBPM": 150,
+        "maxBPM": 300,
+        "minBPM": 50,
+        "startAccent": 0
+    }, {
+        "agujaColor": "#000000",
+        "backGroundColor": "#7fffffff",
+        "centerCircleColor": "#D74914",
+        "clockAccents": [0, 3, 7, 8, 10],
+        "clockImageURL": "",
+        "clockNumbers": ["12", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"],
+        "hightLightedNumberColor": "#000000",
+        "name": "en 12 moderna",
+        "numbersColor": "#D74914",
+        "tracks": [{
+            "name": "compas",
+            "patternSequence": [4],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "a tiempo",
+            "patternSequence": [10],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "contras",
+            "patternSequence": [16],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }],
+        "automaticGain": true,
+        "initialClockAngle": 0.0,
+        "initialNumbersAngle": 0.0,
+        "numbersDeltaAngle": 30.0,
+        "numbersRadioFactor": 1.0,
+        "tempoFraction": 1.0,
+        "tracksGeneralGain": 1.998780004269985,
+        "clockId": 25,
+        "clockImageId": 11,
+        "defaultBPM": 150,
+        "maxBPM": 300,
+        "minBPM": 50,
+        "startAccent": 0
+    }, {
+        "agujaColor": "#000000",
+        "backGroundColor": "#7fffffff",
+        "centerCircleColor": "#D74914",
+        "clockAccents": [0, 3, 6, 8, 10],
+        "clockImageURL": "",
+        "clockNumbers": ["12", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"],
+        "hightLightedNumberColor": "#000000",
+        "name": "en 12 antigua",
+        "numbersColor": "#D74914",
+        "tracks": [{
+            "name": "compas",
+            "patternSequence": [5],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "a tiempo",
+            "patternSequence": [11],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }, {
+            "name": "contras",
+            "patternSequence": [16],
+            "trackVolume": 0.5,
+            "notMute": 1
+        }],
+        "automaticGain": true,
+        "initialClockAngle": 0.0,
+        "initialNumbersAngle": 0.0,
+        "numbersDeltaAngle": 30.0,
+        "numbersRadioFactor": 1.0,
+        "tempoFraction": 1.0,
+        "tracksGeneralGain": 1.998780004269985,
+        "clockId": 26,
+        "clockImageId": 11,
+        "defaultBPM": 150,
+        "maxBPM": 300,
+        "minBPM": 50,
+        "startAccent": 0
+    }],
+    "compasPatterns": [{
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [0.0],
+            "tempoInstrument": [6],
+            "tempoIntensities": [0.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "compas palmas 2/4",
+        "generalVolume": 1.0,
+        "numberOfTempos": 2
+    }, {
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [0.0],
+            "tempoInstrument": [6],
+            "tempoIntensities": [0.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "compas palmas 3/4",
+        "generalVolume": 1.0,
+        "numberOfTempos": 3
+    }, {
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [0.0],
+            "tempoInstrument": [6],
+            "tempoIntensities": [0.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "compas palmas 4/4",
+        "generalVolume": 1.0,
+        "numberOfTempos": 4
+    }, {
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [0.0],
+            "tempoInstrument": [6],
+            "tempoIntensities": [0.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "palmas 6/4",
+        "generalVolume": 1.0,
+        "numberOfTempos": 6
+    }, {
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [0.0, 3.0, 7.0, 8.0, 10.0],
+            "tempoInstrument": [6, 6, 6, 6, 6],
+            "tempoIntensities": [0.0, 0.0, 0.0, 0.0, 0.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "compas palmas 12 moderno",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [0.0, 3.0, 6.0, 8.0, 10.0],
+            "tempoInstrument": [6, 6, 6, 6, 6],
+            "tempoIntensities": [0.0, 0.0, 0.0, 0.0, 0.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "compas palmas 12 antiguo",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [1.0],
+            "tempoInstrument": [7],
+            "tempoIntensities": [4.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "palmas 3/4",
+        "generalVolume": 1.0,
+        "numberOfTempos": 2
+    }, {
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [1.0, 2.0],
+            "tempoInstrument": [7, 7],
+            "tempoIntensities": [4.0, 4.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "palmas 3/4",
+        "generalVolume": 1.0,
+        "numberOfTempos": 3
+    }, {
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [1.0, 2.0, 3.0],
+            "tempoInstrument": [7, 7, 7],
+            "tempoIntensities": [4.0, 4.0, 4.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "palmas 4/4",
+        "generalVolume": 1.0,
+        "numberOfTempos": 4
+    }, {
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [1.0, 2.0, 3.0, 4.0, 5.0],
+            "tempoInstrument": [7, 7, 7, 7, 7],
+            "tempoIntensities": [4.0, 4.0, 4.0, 4.0, 4.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "palmas 6/4",
+        "generalVolume": 1.0,
+        "numberOfTempos": 6
+    }, {
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [1.0, 2.0, 4.0, 5.0, 6.0, 9.0, 11.0],
+            "tempoInstrument": [7, 7, 7, 7, 7, 7, 7],
+            "tempoIntensities": [4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "palmas 12 moderno",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [1.0, 2.0, 4.0, 5.0, 7.0, 9.0, 11.0],
+            "tempoInstrument": [7, 7, 7, 7, 7, 7, 7],
+            "tempoIntensities": [4.0, 4.0, 4.0, 4.0, 4.0, 4.0, 4.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "palmas 12 antiguo",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }, {
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [0.5, 1.5],
+            "tempoInstrument": [7, 7],
+            "tempoIntensities": [0.0, 0.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "palmas 2/4 contras",
+        "generalVolume": 1.0,
+        "numberOfTempos": 2
+    }, {
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [0.5, 1.5, 2.5],
+            "tempoInstrument": [7, 7, 7],
+            "tempoIntensities": [0.0, 0.0, 0.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "palmas 3/4 contras",
+        "generalVolume": 1.0,
+        "numberOfTempos": 3
+    }, {
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [0.5, 1.5, 2.5, 3.5],
+            "tempoInstrument": [7, 7, 7, 7],
+            "tempoIntensities": [0.0, 0.0, 0.0, 0.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "palmas 4/4 contras",
+        "generalVolume": 1.0,
+        "numberOfTempos": 4
+    }, {
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [0.5, 1.5, 2.5, 3.5, 4.5, 5.5],
+            "tempoInstrument": [7, 7, 7, 7, 7, 7],
+            "tempoIntensities": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "contras palmas 6/4",
+        "generalVolume": 1.0,
+        "numberOfTempos": 6
+    }, {
+        "instruments": [{
+            "instrument": "palmas",
+            "tempoHits": [0.5, 1.5, 2.5, 3.5, 4.5, 5.5, 6.5, 7.5, 8.5, 9.5, 10.5, 11.5],
+            "tempoInstrument": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7],
+            "tempoIntensities": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0],
+            "instrumentVolume": 1.0
+        }],
+        "name": "contras palmas 12",
+        "generalVolume": 1.0,
+        "numberOfTempos": 12
+    }],
+    "name": "palmas",
+    "selectedAudio": 0
+}]

@@ -1,0 +1,438 @@
+{
+  "label": "Bulerías",
+  "name": "BULERÍAS",
+  "bpm": 210,
+  "order": [
+    12,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "accents": [
+    "12",
+    "3",
+    "7",
+    "8",
+    "10"
+  ],
+  "accentPositions": [
+    0,
+    3,
+    7,
+    8,
+    10
+  ],
+  "tempoFraction": 1.0,
+  "note": "Счёт с 12 · акценты 12, 3, 7, 8, 10 · Moderno",
+  "practice": "Moderno: опорные басовые удары на 12, 3, 7, 8 и 10, высокий кахон и пальмас.",
+  "eventGrid": [
+    [
+      {
+        "kind": "bass",
+        "instrument": "cajon",
+        "velocity": 1.0993792987753732,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 0
+      },
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.0993792987753732,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.03435560308673041,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 1
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.03435560308673041,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 0.13742241234692165,
+        "sourceIntensity": 3.0,
+        "sourceSoundIndex": 2
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.13742241234692165,
+        "sourceIntensity": 4.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 0.06871120617346083,
+        "sourceIntensity": 4.0,
+        "sourceSoundIndex": 2
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.03435560308673041,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 0.03435560308673041,
+        "sourceIntensity": 5.0,
+        "sourceSoundIndex": 2
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.03435560308673041,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 1
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bass",
+        "instrument": "cajon",
+        "velocity": 1.0993792987753732,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 0
+      },
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.0993792987753732,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.03435560308673041,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 1
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.03435560308673041,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 0.13742241234692165,
+        "sourceIntensity": 3.0,
+        "sourceSoundIndex": 2
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.13742241234692165,
+        "sourceIntensity": 4.0,
+        "sourceSoundIndex": 1
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.03435560308673041,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 0.13742241234692165,
+        "sourceIntensity": 3.0,
+        "sourceSoundIndex": 2
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.03435560308673041,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 1
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.03435560308673041,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 0.008588900771682603,
+        "sourceIntensity": 7.0,
+        "sourceSoundIndex": 2
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.2748448246938433,
+        "sourceIntensity": 3.0,
+        "sourceSoundIndex": 1
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bass",
+        "instrument": "cajon",
+        "velocity": 1.0993792987753732,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 0
+      },
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 0.2748448246938433,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 2
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.03435560308673041,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 0.2748448246938433,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 2
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bass",
+        "instrument": "cajon",
+        "velocity": 1.0993792987753732,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 0
+      },
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.0993792987753732,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.03435560308673041,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 1
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.03435560308673041,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 0.2748448246938433,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 2
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.2748448246938433,
+        "sourceIntensity": 3.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 0.2748448246938433,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 2
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bass",
+        "instrument": "cajon",
+        "velocity": 1.0993792987753732,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 0
+      },
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.0993792987753732,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.03435560308673041,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 1
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.13742241234692165,
+        "sourceIntensity": 4.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 0.2748448246938433,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 2
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.03435560308673041,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 1
+      }
+    ],
+    [],
+    [],
+    []
+  ],
+  "sourceClock": "MODERNA EN 12",
+  "sourcePalo": "Bulerías",
+  "sourceClockIndex": 0,
+  "cycleLabel": "12 ПОЗИЦИЙ",
+  "sourceGainModel": "instrumentVolume * generalVolume * trackVolume * tracksGeneralGain * 2^(-tempoIntensity); inferred amplitude transfer, not verified against executable",
+  "outputGain": 0.75,
+  "hasPandereta": false
+}

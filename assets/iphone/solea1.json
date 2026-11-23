@@ -1,0 +1,412 @@
+{
+  "label": "Soleá",
+  "name": "SOLEÁ",
+  "bpm": 90,
+  "order": [
+    12,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "accents": [
+    "12",
+    "3",
+    "6",
+    "8",
+    "10"
+  ],
+  "accentPositions": [
+    0,
+    3,
+    6,
+    8,
+    10
+  ],
+  "tempoFraction": 1.0,
+  "note": "Счёт с 12 · акценты 12, 3, 6, 8, 10",
+  "practice": "Настрой удобный темп и баланс инструментов. Слушай рисунок целиком, затем разбери каждую партию отдельно.",
+  "eventGrid": [
+    [
+      {
+        "kind": "bass",
+        "instrument": "cajon",
+        "velocity": 0.6666056352354796,
+        "sourceIntensity": 3.0,
+        "sourceSoundIndex": 0
+      },
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.1666514088088699,
+        "sourceIntensity": 5.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "hard",
+        "instrument": "palmas",
+        "velocity": 0.6666056352354796,
+        "sourceIntensity": 4.0,
+        "sourceSoundIndex": 4
+      },
+      {
+        "kind": "double",
+        "instrument": "palmas",
+        "velocity": 0.6666056352354796,
+        "sourceIntensity": 5.0,
+        "sourceSoundIndex": 3
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.08332570440443494,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "hard",
+        "instrument": "palmas",
+        "velocity": 0.08332570440443494,
+        "sourceIntensity": 7.0,
+        "sourceSoundIndex": 4
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.1666514088088699,
+        "sourceIntensity": 5.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "hard",
+        "instrument": "palmas",
+        "velocity": 0.08332570440443494,
+        "sourceIntensity": 7.0,
+        "sourceSoundIndex": 4
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bass",
+        "instrument": "cajon",
+        "velocity": 0.6666056352354796,
+        "sourceIntensity": 3.0,
+        "sourceSoundIndex": 0
+      },
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.1666514088088699,
+        "sourceIntensity": 5.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "hard",
+        "instrument": "palmas",
+        "velocity": 0.6666056352354796,
+        "sourceIntensity": 4.0,
+        "sourceSoundIndex": 4
+      },
+      {
+        "kind": "double",
+        "instrument": "palmas",
+        "velocity": 0.6666056352354796,
+        "sourceIntensity": 5.0,
+        "sourceSoundIndex": 3
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "hard",
+        "instrument": "palmas",
+        "velocity": 0.08332570440443494,
+        "sourceIntensity": 7.0,
+        "sourceSoundIndex": 4
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.08332570440443494,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 1
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.08332570440443494,
+        "sourceIntensity": 6.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "hard",
+        "instrument": "palmas",
+        "velocity": 0.08332570440443494,
+        "sourceIntensity": 7.0,
+        "sourceSoundIndex": 4
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bass",
+        "instrument": "cajon",
+        "velocity": 0.6666056352354796,
+        "sourceIntensity": 3.0,
+        "sourceSoundIndex": 0
+      },
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.1666514088088699,
+        "sourceIntensity": 5.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "hard",
+        "instrument": "palmas",
+        "velocity": 0.6666056352354796,
+        "sourceIntensity": 4.0,
+        "sourceSoundIndex": 4
+      },
+      {
+        "kind": "hard",
+        "instrument": "palmas",
+        "velocity": 0.3333028176177398,
+        "sourceIntensity": 5.0,
+        "sourceSoundIndex": 4
+      },
+      {
+        "kind": "double",
+        "instrument": "palmas",
+        "velocity": 0.6666056352354796,
+        "sourceIntensity": 5.0,
+        "sourceSoundIndex": 3
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bass",
+        "instrument": "cajon",
+        "velocity": 0.3333028176177398,
+        "sourceIntensity": 4.0,
+        "sourceSoundIndex": 0
+      },
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.04166285220221747,
+        "sourceIntensity": 7.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "hard",
+        "instrument": "palmas",
+        "velocity": 0.3333028176177398,
+        "sourceIntensity": 5.0,
+        "sourceSoundIndex": 4
+      },
+      {
+        "kind": "double",
+        "instrument": "palmas",
+        "velocity": 0.6666056352354796,
+        "sourceIntensity": 5.0,
+        "sourceSoundIndex": 3
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bass",
+        "instrument": "cajon",
+        "velocity": 0.6666056352354796,
+        "sourceIntensity": 3.0,
+        "sourceSoundIndex": 0
+      },
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.1666514088088699,
+        "sourceIntensity": 5.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "hard",
+        "instrument": "palmas",
+        "velocity": 0.6666056352354796,
+        "sourceIntensity": 4.0,
+        "sourceSoundIndex": 4
+      },
+      {
+        "kind": "double",
+        "instrument": "palmas",
+        "velocity": 0.6666056352354796,
+        "sourceIntensity": 5.0,
+        "sourceSoundIndex": 3
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bass",
+        "instrument": "cajon",
+        "velocity": 0.3333028176177398,
+        "sourceIntensity": 4.0,
+        "sourceSoundIndex": 0
+      },
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.04166285220221747,
+        "sourceIntensity": 7.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "hard",
+        "instrument": "palmas",
+        "velocity": 0.3333028176177398,
+        "sourceIntensity": 5.0,
+        "sourceSoundIndex": 4
+      },
+      {
+        "kind": "double",
+        "instrument": "palmas",
+        "velocity": 0.6666056352354796,
+        "sourceIntensity": 5.0,
+        "sourceSoundIndex": 3
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bass",
+        "instrument": "cajon",
+        "velocity": 0.6666056352354796,
+        "sourceIntensity": 3.0,
+        "sourceSoundIndex": 0
+      },
+      {
+        "kind": "slap",
+        "instrument": "cajon",
+        "velocity": 0.1666514088088699,
+        "sourceIntensity": 5.0,
+        "sourceSoundIndex": 1
+      },
+      {
+        "kind": "hard",
+        "instrument": "palmas",
+        "velocity": 0.6666056352354796,
+        "sourceIntensity": 4.0,
+        "sourceSoundIndex": 4
+      },
+      {
+        "kind": "double",
+        "instrument": "palmas",
+        "velocity": 0.6666056352354796,
+        "sourceIntensity": 5.0,
+        "sourceSoundIndex": 3
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "sourceClock": "COMPAS ANTIGUO",
+  "sourcePalo": "soleares",
+  "sourceClockIndex": 1,
+  "cycleLabel": "12 ПОЗИЦИЙ",
+  "sourceGainModel": "instrumentVolume * generalVolume * trackVolume * tracksGeneralGain * 2^(-tempoIntensity); inferred amplitude transfer, not verified against executable",
+  "outputGain": 0.75,
+  "hasPandereta": false
+}

@@ -1,0 +1,96 @@
+{
+  "archive": "Metronomo 1.0.1.ipa",
+  "bundle": "com.swissapps.metronomo",
+  "version": "1.0.1",
+  "source": "User-provided local application archive",
+  "files": [
+    {
+      "file": "cajon_agudo_mono.wav",
+      "sha256": "fe6fba75aa2c861ba31bffccfe9817eabb2a8476f53f54223ad2c35def05db61",
+      "bytes": 32294
+    },
+    {
+      "file": "cajon_grave_mono.wav",
+      "sha256": "e991a6922bfebdab5332b76f054036d67ac3da5c51f3b04bcb178c7b1c52ea40",
+      "bytes": 32294
+    },
+    {
+      "file": "palmas_agudas_dobles_mono.wav",
+      "sha256": "6c0de7acdaca78384ed9185d908303d775635ea424814df8e30886259bd2d4e1",
+      "bytes": 32294
+    },
+    {
+      "file": "palmas_agudas_fuertes_mono.wav",
+      "sha256": "c4125f03f0142f9ebf44b9749315455ca3a37540246942abc302960e13b142ad",
+      "bytes": 32294
+    },
+    {
+      "file": "palmas_agudas_v2_mono.wav",
+      "sha256": "df023e4724e5af8818bfdeb0ce2994ff84adedd4041db282f6b1509d99849dc5",
+      "bytes": 32294
+    },
+    {
+      "file": "palmas_sordas_mono.wav",
+      "sha256": "efd01c61ed58e1282825810c86a12b33843b2882a9fe4e59e7de0ff3a1fe3705",
+      "bytes": 32294
+    },
+    {
+      "file": "palmas_sordas_suaves_mono.wav",
+      "sha256": "3edddd2ce0e28829b97cc89c7c83ae5ff159931fea399dbae06d5112996311e3",
+      "bytes": 32294
+    },
+    {
+      "file": "pandereta_mono.wav",
+      "sha256": "c18c190fef6ed9b62a02bd3c441151074d13c8f980bd3f82e5342137f2e97034",
+      "bytes": 32294
+    },
+    {
+      "file": "palos.json",
+      "sha256": "19427ef36acc553402f52e4d4bbcdf1af25c802800959d25154915ac7b41af31",
+      "bytes": 70685
+    }
+  ],
+  "roleMapping": {
+    "soft": "palmas_sordas_mono.wav",
+    "hard": "palmas_agudas_fuertes_mono.wav",
+    "bass": "cajon_grave_mono.wav",
+    "slap": "cajon_agudo_mono.wav",
+    "tap": "cajon_agudo_mono.wav",
+    "double": "palmas_agudas_dobles_mono.wav",
+    "pandereta": "pandereta_mono.wav",
+    "softer": "palmas_sordas_suaves_mono.wav",
+    "bright": "palmas_agudas_v2_mono.wav",
+    "filler": "palmas_agudas_v2_mono.wav"
+  },
+  "normalization": "Original sample levels and onset preserved",
+  "patternsImported": [
+    "soleares / COMPAS MODERNO",
+    "Bulerías / MODERNA EN 12",
+    "Bulerías / ANTIGUAS EN 12",
+    "tanguillos / TRADICIONAL",
+    "Bulerías / AL GOLPE",
+    "Bulerías / EN SEIS TIEMPOS",
+    "Bulerías / EN SEIS OCTAVOS",
+    "Alegrías / SONIQUETE MODERNO",
+    "Alegrías / SONIQUETE ANTIGUO",
+    "fandangos / EN DOCE TIEMPOS",
+    "fandangos / EN SEIS TIEMPOS",
+    "fandangos / EN TRES TIEMPOS",
+    "jaleos / TRADICIONAL",
+    "seguiriyas / TRADICIONAL",
+    "soleares / COMPAS ANTIGUO",
+    "rumbas / TRADICIONAL",
+    "tangos / TRADICIONAL",
+    "tientos / TRADICIONAL",
+    "sevillanas / COMPLETA",
+    "sevillanas / 1er TERCIO",
+    "sevillanas / 3er TERCIO",
+    "palmas / en 2 tiempos",
+    "palmas / en 3 tiempos",
+    "palmas / en 4 tiempos",
+    "palmas / en 6 tiempos",
+    "palmas / en 12 moderna",
+    "palmas / en 12 antigua"
+  ],
+  "patternLevelMapping": "Inferred exponential intensity attenuation; source event times and complete track sequences copied exactly. Sound indices 3, 6 and 7 inferred from available recordings; not verified against executable."
+}

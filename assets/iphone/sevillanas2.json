@@ -1,0 +1,997 @@
+{
+  "label": "Sevillanas",
+  "name": "SEVILLANAS",
+  "bpm": 150,
+  "order": [
+    1,
+    2,
+    3
+  ],
+  "accents": [
+    "1",
+    "2",
+    "3"
+  ],
+  "accentPositions": [
+    0,
+    1,
+    2
+  ],
+  "tempoFraction": 1.0,
+  "note": "3er tercio · 33 счёта во фразе",
+  "practice": "Вступление и паузы входят в последовательность. Дождись завершения всей фразы перед повтором.",
+  "eventGrid": [
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 0.06372522326290568,
+        "sourceIntensity": 4.0,
+        "sourceSoundIndex": 2
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 0.06372522326290568,
+        "sourceIntensity": 4.0,
+        "sourceSoundIndex": 2
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 0.06372522326290568,
+        "sourceIntensity": 4.0,
+        "sourceSoundIndex": 2
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 0.06372522326290568,
+        "sourceIntensity": 4.0,
+        "sourceSoundIndex": 2
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "bass",
+        "instrument": "cajon",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 0
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.5098017861032454,
+        "sourceIntensity": 1.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.2549008930516227,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.5098017861032454,
+        "sourceIntensity": 1.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.2549008930516227,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.5098017861032454,
+        "sourceIntensity": 1.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "bass",
+        "instrument": "cajon",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 0
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.5098017861032454,
+        "sourceIntensity": 1.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.2549008930516227,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.5098017861032454,
+        "sourceIntensity": 1.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.2549008930516227,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.5098017861032454,
+        "sourceIntensity": 1.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "bass",
+        "instrument": "cajon",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 0
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.5098017861032454,
+        "sourceIntensity": 1.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.2549008930516227,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.5098017861032454,
+        "sourceIntensity": 1.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.2549008930516227,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.5098017861032454,
+        "sourceIntensity": 1.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "bass",
+        "instrument": "cajon",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 0
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.5098017861032454,
+        "sourceIntensity": 1.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.2549008930516227,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.5098017861032454,
+        "sourceIntensity": 1.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.2549008930516227,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.5098017861032454,
+        "sourceIntensity": 1.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "bass",
+        "instrument": "cajon",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 0
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.5098017861032454,
+        "sourceIntensity": 1.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.2549008930516227,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.5098017861032454,
+        "sourceIntensity": 1.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.2549008930516227,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.5098017861032454,
+        "sourceIntensity": 1.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "bass",
+        "instrument": "cajon",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 0
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.5098017861032454,
+        "sourceIntensity": 1.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.2549008930516227,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.5098017861032454,
+        "sourceIntensity": 1.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.2549008930516227,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.5098017861032454,
+        "sourceIntensity": 1.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "bass",
+        "instrument": "cajon",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 0
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.5098017861032454,
+        "sourceIntensity": 1.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.2549008930516227,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.5098017861032454,
+        "sourceIntensity": 1.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.2549008930516227,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.5098017861032454,
+        "sourceIntensity": 1.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "bass",
+        "instrument": "cajon",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 0
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.5098017861032454,
+        "sourceIntensity": 1.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.2549008930516227,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "bass",
+        "instrument": "cajon",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 0
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.5098017861032454,
+        "sourceIntensity": 1.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.2549008930516227,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.5098017861032454,
+        "sourceIntensity": 1.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "bright",
+        "instrument": "palmas",
+        "velocity": 1.019603572206491,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 2
+      },
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.2549008930516227,
+        "sourceIntensity": 2.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "pandereta",
+        "instrument": "pandereta",
+        "velocity": 0.5098017861032454,
+        "sourceIntensity": 1.0,
+        "sourceSoundIndex": 5
+      }
+    ],
+    [],
+    [],
+    []
+  ],
+  "sourceClock": "3er TERCIO",
+  "sourcePalo": "sevillanas",
+  "sourceClockIndex": 2,
+  "cycleLabel": "3 СЧЁТА",
+  "sourceGainModel": "instrumentVolume * generalVolume * trackVolume * tracksGeneralGain * 2^(-tempoIntensity); inferred amplitude transfer, not verified against executable",
+  "outputGain": 0.75,
+  "hasPandereta": true
+}

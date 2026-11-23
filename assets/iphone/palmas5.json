@@ -1,0 +1,333 @@
+{
+  "label": "Palmas",
+  "name": "PALMAS",
+  "bpm": 150,
+  "order": [
+    12,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "accents": [
+    "12",
+    "3",
+    "6",
+    "8",
+    "10"
+  ],
+  "accentPositions": [
+    0,
+    3,
+    6,
+    8,
+    10
+  ],
+  "tempoFraction": 1.0,
+  "note": "En 12 · antigua",
+  "practice": "Настрой удобный темп и баланс инструментов. Слушай рисунок целиком, затем разбери каждую партию отдельно.",
+  "eventGrid": [
+    [
+      {
+        "kind": "soft",
+        "instrument": "palmas",
+        "velocity": 0.9993900021349925,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 6
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "softer",
+        "instrument": "palmas",
+        "velocity": 0.9993900021349925,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 7
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "softer",
+        "instrument": "palmas",
+        "velocity": 0.06246187513343703,
+        "sourceIntensity": 4.0,
+        "sourceSoundIndex": 7
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "softer",
+        "instrument": "palmas",
+        "velocity": 0.9993900021349925,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 7
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "softer",
+        "instrument": "palmas",
+        "velocity": 0.06246187513343703,
+        "sourceIntensity": 4.0,
+        "sourceSoundIndex": 7
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "softer",
+        "instrument": "palmas",
+        "velocity": 0.9993900021349925,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 7
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "soft",
+        "instrument": "palmas",
+        "velocity": 0.9993900021349925,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 6
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "softer",
+        "instrument": "palmas",
+        "velocity": 0.9993900021349925,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 7
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "softer",
+        "instrument": "palmas",
+        "velocity": 0.06246187513343703,
+        "sourceIntensity": 4.0,
+        "sourceSoundIndex": 7
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "softer",
+        "instrument": "palmas",
+        "velocity": 0.9993900021349925,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 7
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "softer",
+        "instrument": "palmas",
+        "velocity": 0.06246187513343703,
+        "sourceIntensity": 4.0,
+        "sourceSoundIndex": 7
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "softer",
+        "instrument": "palmas",
+        "velocity": 0.9993900021349925,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 7
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "soft",
+        "instrument": "palmas",
+        "velocity": 0.9993900021349925,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 6
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "softer",
+        "instrument": "palmas",
+        "velocity": 0.9993900021349925,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 7
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "softer",
+        "instrument": "palmas",
+        "velocity": 0.06246187513343703,
+        "sourceIntensity": 4.0,
+        "sourceSoundIndex": 7
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "softer",
+        "instrument": "palmas",
+        "velocity": 0.9993900021349925,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 7
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "soft",
+        "instrument": "palmas",
+        "velocity": 0.9993900021349925,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 6
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "softer",
+        "instrument": "palmas",
+        "velocity": 0.9993900021349925,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 7
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "softer",
+        "instrument": "palmas",
+        "velocity": 0.06246187513343703,
+        "sourceIntensity": 4.0,
+        "sourceSoundIndex": 7
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "softer",
+        "instrument": "palmas",
+        "velocity": 0.9993900021349925,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 7
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "soft",
+        "instrument": "palmas",
+        "velocity": 0.9993900021349925,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 6
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "softer",
+        "instrument": "palmas",
+        "velocity": 0.9993900021349925,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 7
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "softer",
+        "instrument": "palmas",
+        "velocity": 0.06246187513343703,
+        "sourceIntensity": 4.0,
+        "sourceSoundIndex": 7
+      }
+    ],
+    [],
+    [],
+    [],
+    [
+      {
+        "kind": "softer",
+        "instrument": "palmas",
+        "velocity": 0.9993900021349925,
+        "sourceIntensity": 0.0,
+        "sourceSoundIndex": 7
+      }
+    ],
+    [],
+    [],
+    []
+  ],
+  "sourceClock": "en 12 antigua",
+  "sourcePalo": "palmas",
+  "sourceClockIndex": 5,
+  "cycleLabel": "12 ПОЗИЦИЙ",
+  "sourceGainModel": "instrumentVolume * generalVolume * trackVolume * tracksGeneralGain * 2^(-tempoIntensity); inferred amplitude transfer, not verified against executable",
+  "outputGain": 0.75,
+  "hasPandereta": false
+}
